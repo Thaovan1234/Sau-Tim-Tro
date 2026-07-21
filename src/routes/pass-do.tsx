@@ -1062,52 +1062,7 @@ function PassDoPage() {
       >
         <span className="text-lg font-black leading-tight">+</span>
         <span className="text-[7.5px] font-black uppercase tracking-tight leading-none text-center">Đăng đồ<br/>ngay</span>
-      </a>ubmit button */}
-            <button
-              type="submit"
-              className="w-full py-3.5 bg-brand-yellow text-slate-800 hover:opacity-95 font-bold rounded-xl text-xs flex items-center justify-center shadow-md active:scale-98"
-              style={{ backgroundColor: "var(--brand-yellow)" }}
-            >
-              Đăng tin ngay
-            </button>
-          </form>
-
-        </section>
-
-        {/* SAFETY TIPS */}
-        <section className="bg-white rounded-3xl p-6 md:p-8 border border-slate-100 shadow-sm space-y-6">
-          <div className="space-y-1">
-            <h3 className="font-bold text-slate-800 text-sm">Giao dịch an toàn hơn</h3>
-            <p className="text-[10px] text-slate-500">Mẹo mua bán đồ cũ an tâm và chất lượng dành cho các bạn sinh viên.</p>
-          </div>
-
-          <div className="grid gap-4 sm:grid-cols-4">
-            {[
-              { icon: X, title: "Không cọc trước", desc: "Tránh chuyển tiền cọc khi chưa xem đồ trực tiếp.", isCross: true },
-              { icon: Users, title: "Gặp nơi đông người", desc: "Giao dịch tại quán cafe, cổng trường đại học.", isCross: false },
-              { icon: FileText, title: "Kiểm tra kỹ tình trạng", desc: "Xem đúng độ mới, tính năng hoạt động trước khi mua.", isCross: false },
-              { icon: Heart, title: "Báo cáo gian lận", desc: "Sử dụng nút 'Báo cáo' nếu thấy nội dung đáng ngờ.", isCross: false }
-            ].map(({ icon: Icon, title, desc, isCross }) => (
-              <div key={title} className="p-4 bg-slate-50/50 rounded-2xl border border-slate-100 flex gap-3.5">
-                <div className={`h-8 w-8 rounded-lg flex items-center justify-center shrink-0 border ${
-                  isCross 
-                    ? "bg-red-50 text-red-500 border-red-100" 
-                    : title === "Báo cáo gian lận" 
-                      ? "bg-amber-50 text-[#ffc700] border-amber-100"
-                      : "bg-blue-50 text-blue-500 border-blue-100"
-                }`}>
-                  <Icon className="h-4.5 w-4.5" />
-                </div>
-                <div>
-                  <h4 className="text-xs font-bold text-slate-800">{title}</h4>
-                  <p className="text-[10px] text-slate-500 leading-relaxed mt-0.5">{desc}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-
-      </main>
+      </a>
 
       {/* PRODUCT DETAIL MODAL */}
       {selectedProduct && (

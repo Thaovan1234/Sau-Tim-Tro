@@ -793,7 +793,7 @@ function SearchPage() {
                   <span>{pill.label}</span>
                 </button>
               ))}
-              <button className="h-9 px-3.5 rounded-xl bg-slate-50 hover:bg-slate-100 text-slate-500 text-xs font-bold">Diện tích</option>
+              <button className="h-9 px-3.5 rounded-xl bg-slate-50 hover:bg-slate-100 text-slate-500 text-xs font-bold">Diện tích</button>
               <button className="h-9 px-3.5 rounded-xl bg-brand-green-bg text-brand-green-text text-xs font-bold flex items-center gap-1 border border-transparent" style={{ backgroundColor: "var(--brand-green-bg)", color: "var(--brand-green-text)" }}>
                 ✓ Đã xác minh
               </button>

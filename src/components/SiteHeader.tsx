@@ -310,10 +310,11 @@ export function SiteHeader() {
                     if (!surveyCompleted) {
                       e.preventDefault();
                       alert("Vui lòng hoàn thành đăng nhập/đăng ký và khảo sát trước khi truy cập website!");
+                      return;
                     }
+                    setMobileOpen(false);
                   }}
                   className={`px-4 py-3 rounded-xl text-sm font-bold text-cocoa hover:bg-slate-100 transition-colors ${!surveyCompleted ? 'opacity-50 cursor-not-allowed' : ''}`}
-                  onClick={() => setMobileOpen(false)}
                 >
                   {l.label}
                 </Link>

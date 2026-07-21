@@ -9,20 +9,17 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
-import { Route as SearchRouteImport } from './routes/search'
-import { Route as PostRouteImport } from './routes/post'
-import { Route as FavoritesRouteImport } from './routes/favorites'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as FavoritesRouteImport } from './routes/favorites'
+import { Route as OnboardingRouteImport } from './routes/onboarding'
+import { Route as PassDoRouteImport } from './routes/pass-do'
+import { Route as PostRouteImport } from './routes/post'
+import { Route as SearchRouteImport } from './routes/search'
 import { Route as RoomIdRouteImport } from './routes/room.$id'
 
-const SearchRoute = SearchRouteImport.update({
-  id: '/search',
-  path: '/search',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const PostRoute = PostRouteImport.update({
-  id: '/post',
-  path: '/post',
+const IndexRoute = IndexRouteImport.update({
+  id: '/',
+  path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
 const FavoritesRoute = FavoritesRouteImport.update({
@@ -30,9 +27,24 @@ const FavoritesRoute = FavoritesRouteImport.update({
   path: '/favorites',
   getParentRoute: () => rootRouteImport,
 } as any)
-const IndexRoute = IndexRouteImport.update({
-  id: '/',
-  path: '/',
+const OnboardingRoute = OnboardingRouteImport.update({
+  id: '/onboarding',
+  path: '/onboarding',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PassDoRoute = PassDoRouteImport.update({
+  id: '/pass-do',
+  path: '/pass-do',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PostRoute = PostRouteImport.update({
+  id: '/post',
+  path: '/post',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SearchRoute = SearchRouteImport.update({
+  id: '/search',
+  path: '/search',
   getParentRoute: () => rootRouteImport,
 } as any)
 const RoomIdRoute = RoomIdRouteImport.update({
@@ -44,6 +56,8 @@ const RoomIdRoute = RoomIdRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/favorites': typeof FavoritesRoute
+  '/onboarding': typeof OnboardingRoute
+  '/pass-do': typeof PassDoRoute
   '/post': typeof PostRoute
   '/search': typeof SearchRoute
   '/room/$id': typeof RoomIdRoute
@@ -51,6 +65,8 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/favorites': typeof FavoritesRoute
+  '/onboarding': typeof OnboardingRoute
+  '/pass-do': typeof PassDoRoute
   '/post': typeof PostRoute
   '/search': typeof SearchRoute
   '/room/$id': typeof RoomIdRoute
@@ -59,21 +75,47 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/favorites': typeof FavoritesRoute
+  '/onboarding': typeof OnboardingRoute
+  '/pass-do': typeof PassDoRoute
   '/post': typeof PostRoute
   '/search': typeof SearchRoute
   '/room/$id': typeof RoomIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/favorites' | '/post' | '/search' | '/room/$id'
+  fullPaths:
+    | '/'
+    | '/favorites'
+    | '/onboarding'
+    | '/pass-do'
+    | '/post'
+    | '/search'
+    | '/room/$id'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/favorites' | '/post' | '/search' | '/room/$id'
-  id: '__root__' | '/' | '/favorites' | '/post' | '/search' | '/room/$id'
+  to:
+    | '/'
+    | '/favorites'
+    | '/onboarding'
+    | '/pass-do'
+    | '/post'
+    | '/search'
+    | '/room/$id'
+  id:
+    | '__root__'
+    | '/'
+    | '/favorites'
+    | '/onboarding'
+    | '/pass-do'
+    | '/post'
+    | '/search'
+    | '/room/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   FavoritesRoute: typeof FavoritesRoute
+  OnboardingRoute: typeof OnboardingRoute
+  PassDoRoute: typeof PassDoRoute
   PostRoute: typeof PostRoute
   SearchRoute: typeof SearchRoute
   RoomIdRoute: typeof RoomIdRoute
@@ -81,18 +123,11 @@ export interface RootRouteChildren {
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
-    '/search': {
-      id: '/search'
-      path: '/search'
-      fullPath: '/search'
-      preLoaderRoute: typeof SearchRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/post': {
-      id: '/post'
-      path: '/post'
-      fullPath: '/post'
-      preLoaderRoute: typeof PostRouteImport
+    '/': {
+      id: '/'
+      path: '/'
+      fullPath: '/'
+      preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/favorites': {
@@ -102,11 +137,32 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof FavoritesRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/': {
-      id: '/'
-      path: '/'
-      fullPath: '/'
-      preLoaderRoute: typeof IndexRouteImport
+    '/onboarding': {
+      id: '/onboarding'
+      path: '/onboarding'
+      fullPath: '/onboarding'
+      preLoaderRoute: typeof OnboardingRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/pass-do': {
+      id: '/pass-do'
+      path: '/pass-do'
+      fullPath: '/pass-do'
+      preLoaderRoute: typeof PassDoRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/post': {
+      id: '/post'
+      path: '/post'
+      fullPath: '/post'
+      preLoaderRoute: typeof PostRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/search': {
+      id: '/search'
+      path: '/search'
+      fullPath: '/search'
+      preLoaderRoute: typeof SearchRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/room/$id': {
@@ -122,6 +178,8 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   FavoritesRoute: FavoritesRoute,
+  OnboardingRoute: OnboardingRoute,
+  PassDoRoute: PassDoRoute,
   PostRoute: PostRoute,
   SearchRoute: SearchRoute,
   RoomIdRoute: RoomIdRoute,
