@@ -7,10 +7,13 @@
     "node": "20.x"
   },
   "scripts": {
-    "dev": "vite dev",
-    "build": "vite build",
+    "prepare:static": "node scripts/prepare-static.mjs",
+    "dev": "node scripts/prepare-static.mjs && npx --yes serve public -l 3000",
+    "build": "node scripts/prepare-static.mjs",
+    "preview": "npx --yes serve public -l 3000",
+    "dev:react": "vite dev",
+    "build:react": "vite build",
     "build:dev": "vite build --mode development",
-    "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier --write ."
   },
