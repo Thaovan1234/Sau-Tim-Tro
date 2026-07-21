@@ -1,5 +1,4 @@
-/* Fonts must come before other CSS rules (@import order). */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@400;600&display=swap");
+/* Fonts are loaded via <link> in __root.tsx (not @import) to avoid CSS order warnings. */
 @import "tailwindcss" source(none);
 @source "../src";
 @import "tw-animate-css";
