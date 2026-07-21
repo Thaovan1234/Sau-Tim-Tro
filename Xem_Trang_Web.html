@@ -3142,21 +3142,8 @@
       JAVASCRIPT STATE MACHINE & MOCKUPS DATABASE
   ══════════════════════════════════════════════════════ -->
   <script>
-    // Ensure default logged in state for seamless navigation
-    if (!localStorage.getItem("sau_user_logged_in")) {
-      localStorage.setItem("sau_user_logged_in", "true");
-      localStorage.setItem("sau_user_name", "Sv Google");
-      localStorage.setItem("sau_user_email", "sv.google@gmail.com");
-      localStorage.setItem("sau_survey_completed_sv.google@gmail.com", "true");
-    }
-
-    // Pre-populate login session to match screenshot only if not explicitly logged out
-    if (!localStorage.getItem("sau_user_logged_in") && localStorage.getItem("sau_user_explicit_logout") !== "true") {
-      localStorage.setItem("sau_user_logged_in", "true");
-      localStorage.setItem("sau_user_name", "Sv Google");
-      localStorage.setItem("sau_user_email", "svgoogle@gmail.com");
-      localStorage.setItem("sau_survey_completed_svgoogle@gmail.com", "true");
-    }
+    // Do NOT auto-login. Guests must register/login + complete survey.
+    // (Previously seeded "Sv Google" + survey_completed, which hid auth/QA on every visit.)
     const simulatedLandlords = [
   { name: "Chú Phạm Hữu Thắng", phone: "0905.754.2824", gender: "male", pronounSelf: "Chú", pronounUser: "con", avatar: "https://images.unsplash.com/photo-1513956589380-bad6acb9b9d4?auto=format&fit=crop&w=120&q=80&sig=0", tone: "friendly" },
   { name: "Chú Trần Hữu Sơn", phone: "0901.704.7912", gender: "male", pronounSelf: "Chú", pronounUser: "con", avatar: "https://images.unsplash.com/photo-1513956589380-bad6acb9b9d4?auto=format&fit=crop&w=120&q=80&sig=1", tone: "business" },
