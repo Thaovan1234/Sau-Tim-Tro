@@ -1,23 +1,40 @@
-// @lovable.dev/vite-tanstack-config already includes the following — do NOT add them manually
-// or the app will break with duplicate plugins:
-//   - tanstackStart, viteReact, tailwindcss, tsConfigPaths, cloudflare (build-only),
-//     componentTagger (dev-only), VITE_* env injection, @ path alias, React/TanStack dedupe,
-//     error logger plugins, and sandbox detection (port/host/strictPort).
-// You can pass additional config via defineConfig({ vite: { ... } }) if needed.
-import { defineConfig } from "@lovable.dev/vite-tanstack-config";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import { defineConfig } from "vite";
+import { tanstackStart } from "@tanstack/react-start/plugin/vite";
+import { nitro } from "nitro/vite";
+import viteReact from "@vitejs/plugin-react";
+import tailwindcss from "@tailwindcss/vite";
+import tsConfigPaths from "vite-tsconfig-paths";
 
-// Outside Lovable sandbox the wrapper skips Nitro unless explicitly enabled.
-// Vercel needs Nitro output (not Cloudflare). Force Nitro on for production builds.
-const isVercel = process.env.VERCEL === "1" || process.env.VERCEL === "true";
-const nitroPreset =
-  process.env.NITRO_PRESET || (isVercel ? "vercel" : "node-server");
+const rootDir = path.dirname(fileURLToPath(import.meta.url));
 
-// Redirect TanStack Start's bundled server entry to src/server.ts (SSR error wrapper).
+// Official TanStack Start + Nitro setup for Vercel.
+// Avoid Cloudflare / Lovable deploy plugins — they conflict with Vercel Functions.
 export default defineConfig({
-  tanstackStart: {
-    server: { entry: "server" },
+  resolve: {
+    alias: {
+      "@": path.resolve(rootDir, "src"),
+    },
   },
-  nitro: {
-    preset: nitroPreset,
-  },
+  plugins: [
+    tsConfigPaths({ projects: ["./tsconfig.json"] }),
+    tailwindcss(),
+    tanstackStart({
+      // Branded SSR error wrapper in src/server.ts
+      server: { entry: "server" },
+    }),
+    // Vercel CI sets VERCEL=1 and Nitro auto-selects the vercel preset,
+    // writing proper Build Output API under .vercel/output.
+    // Local builds use node-server so `vite preview` can serve SSR.
+    nitro(
+      process.env.VERCEL
+        ? {
+            // Stay on Node 20 — more widely available on Vercel than 24.
+            vercel: { functions: { runtime: "nodejs20.x" } },
+          }
+        : { preset: process.env.NITRO_PRESET || "node-server" },
+    ),
+    viteReact(),
+  ],
 });

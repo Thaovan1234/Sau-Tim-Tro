@@ -6,6 +6,7 @@ Sau_Tim_Tro_Project.zip
 node_modules/
 dist/
 .output/
+.vercel/
 .vinxi/
 .wrangler/
 .turbo/
@@ -19,3 +20,6 @@ dist/
 Thumbs.db
 .vscode/
 .idea/
+
+.vercel/
+.output/
