@@ -1,2 +1,21 @@
-Sau_Tim_Tro_Project/*
-!Sau_Tim_Tro_Project/.gitignore
+# Large archives
+Sau_Tim_Tro_Project.zip
+*.zip
+
+# Dependencies / build
+node_modules/
+dist/
+.output/
+.vinxi/
+.wrangler/
+.turbo/
+.cache/
+
+# Env / OS / IDE
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
