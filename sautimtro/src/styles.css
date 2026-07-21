@@ -1,0 +1,422 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* ── Fonts: Inter (SoDoSans substitute) + Lora (Lander Tall substitute) ── */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@400;600&display=swap");
+
+@theme inline {
+  --font-display: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-sans:    "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif:   "Lora", "Georgia", serif;
+
+  /* ── Radius scale ── */
+  --radius-sm:   4px;
+  --radius-md:   8px;
+  --radius-lg:   12px;   /* card radius — Starbucks --cardBorderRadius */
+  --radius-xl:   16px;
+  --radius-2xl:  24px;
+  --radius-3xl:  32px;
+  --radius-pill: 50px;   /* button pill — Starbucks --buttonBorderRadius  */
+
+  /* ── Color aliases ── */
+  --color-background:          var(--background);
+  --color-foreground:          var(--foreground);
+  --color-card:                var(--card);
+  --color-card-foreground:     var(--card-foreground);
+  --color-popover:             var(--popover);
+  --color-popover-foreground:  var(--popover-foreground);
+  --color-primary:             var(--primary);
+  --color-primary-foreground:  var(--primary-foreground);
+  --color-secondary:           var(--secondary);
+  --color-secondary-foreground:var(--secondary-foreground);
+  --color-muted:               var(--muted);
+  --color-muted-foreground:    var(--muted-foreground);
+  --color-accent:              var(--accent);
+  --color-accent-foreground:   var(--accent-foreground);
+  --color-destructive:         var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border:              var(--border);
+  --color-input:               var(--input);
+  --color-ring:                var(--ring);
+
+  --color-cream:       var(--cream);
+  --color-honey:       var(--honey);
+  --color-amber-soft:  var(--amber-soft);
+  --color-cocoa:       var(--cocoa);
+  --color-cocoa-deep:  var(--cocoa-deep);
+  --color-leaf:        var(--leaf);
+
+  /* ── Spacing scale (Starbucks rem-based, 1rem = 16px here) ── */
+  --space-1: 0.25rem;  /*  4px */
+  --space-2: 0.5rem;   /*  8px */
+  --space-3: 1rem;     /* 16px — default gutter */
+  --space-4: 1.5rem;   /* 24px */
+  --space-5: 2rem;     /* 32px */
+  --space-6: 2.5rem;   /* 40px */
+  --space-7: 3rem;     /* 48px */
+  --space-8: 3.5rem;   /* 56px — Frap height */
+  --space-9: 4rem;     /* 64px */
+
+  /* ── Elevation / Shadow tokens — Starbucks multi-layer whisper ── */
+  --shadow-card: 0 0 0.5px 0 rgba(0,0,0,0.14), 0 1px 1px 0 rgba(0,0,0,0.24);
+  --shadow-nav:  0 1px 3px rgba(0,0,0,0.10), 0 2px 2px rgba(0,0,0,0.06), 0 0 2px rgba(0,0,0,0.07);
+  --shadow-frap: 0 0 6px rgba(0,0,0,0.24), 0 8px 12px rgba(0,0,0,0.14);
+  --shadow-hover: 0 4px 20px rgba(0,0,0,0.12), 0 2px 6px rgba(0,0,0,0.08);
+
+  /* ── Gradients (kept for mascot/image sections only) ── */
+  --gradient-warm:   linear-gradient(135deg, var(--cream) 0%, var(--amber-soft) 100%);
+  --gradient-overlay: linear-gradient(to right, rgba(0,0,0,0.80) 0%, rgba(0,0,0,0.45) 60%, transparent 100%);
+}
+
+/* ═══════════════════════════════════════════════════════
+   DESIGN TOKENS
+   Updated with light theme & custom brand colors
+   from the screenshots
+═══════════════════════════════════════════════════════ */
+:root {
+  /* Palette */
+  --cream:       #f7f9fc;      /* Light blue-gray/cream canvas */
+  --amber-soft:  #fdfcf7;      /* lighter cream wash          */
+  --honey:       #ffc700;      /* Vibrant Brand Yellow        */
+  --cocoa:       #1e293b;      /* Dark slate / Cocoa for text */
+  --cocoa-deep:  #0f172a;      /* Deepest dark — footer       */
+  --leaf:        #2d6a4f;      /* Mid green — secondary CTA   */
+
+  /* Brand specifics from mockups */
+  --brand-yellow:     #ffc700;
+  --brand-brown:      #5c4d1a;
+  --brand-blue-light: #eef2ff;
+  --brand-blue-text:  #1d4ed8;
+  --brand-green-bg:   #e6f7ed;
+  --brand-green-text: #15803d;
+
+  /* Semantic */
+  --background:        var(--cream);
+  --foreground:        var(--cocoa);
+
+  --card:              #ffffff;
+  --card-foreground:   var(--cocoa);
+  --popover:           #ffffff;
+  --popover-foreground:var(--cocoa);
+
+  --primary:           var(--brand-brown);
+  --primary-foreground:#ffffff;
+
+  --secondary:         var(--leaf);
+  --secondary-foreground:#ffffff;
+
+  --muted:             #f1f5f9;
+  --muted-foreground:  #64748b;
+
+  --accent:            var(--brand-yellow);
+  --accent-foreground: var(--brand-brown);
+
+  --destructive:       #ef4444;
+  --destructive-foreground:#ffffff;
+
+  --border:            #e2e8f0;
+  --input:             #f1f5f9;
+  --ring:              var(--brand-yellow);
+}
+
+
+/* ═══════════════════════════════════════════════════════
+   BASE — Starbucks principles:
+   · Solid color-block, no gradient on body
+   · letter-spacing -0.01em universal
+   · rgba(0,0,0,0.87) ≈ var(--cocoa) for text (not pure black)
+═══════════════════════════════════════════════════════ */
+@layer base {
+  *, *::before, *::after { border-color: var(--color-border); box-sizing: border-box; }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: -0.01em;          /* Starbucks tight tracking */
+    -webkit-font-smoothing: antialiased;
+    /* NO gradient — Starbucks uses solid color-block surfaces */
+  }
+
+  h1, h2, h3, h4, h5 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+  }
+
+  img {
+    opacity: 0;
+    transition: opacity 0.3s ease-in;  /* Starbucks image fade-in */
+  }
+  img.loaded, img[loading="eager"] { opacity: 1; }
+}
+
+/* ═══════════════════════════════════════════════════════
+   UTILITIES
+═══════════════════════════════════════════════════════ */
+@layer utilities {
+  /* Fonts */
+  .font-display { font-family: var(--font-display); }
+  .font-serif   { font-family: var(--font-serif); }
+
+  /* Colors */
+  .text-cocoa       { color: var(--cocoa); }
+  .text-honey       { color: var(--honey); }
+  .text-leaf        { color: var(--leaf); }
+  .bg-cream         { background-color: var(--cream); }
+  .bg-amber-soft    { background-color: var(--amber-soft); }
+  .bg-honey         { background-color: var(--honey); }
+  .bg-cocoa         { background-color: var(--cocoa); }
+  .bg-cocoa-deep    { background-color: var(--cocoa-deep); }
+  .bg-leaf          { background-color: var(--leaf); }
+
+  /* Shadows — Starbucks multi-layer whisper */
+  .shadow-card      { box-shadow: var(--shadow-card); }
+  .shadow-nav       { box-shadow: var(--shadow-nav); }
+  .shadow-frap      { box-shadow: var(--shadow-frap); }
+  .shadow-hover     { box-shadow: var(--shadow-hover); }
+
+  /* Gradient utility (for image overlays only) */
+  .bg-gradient-warm    { background: var(--gradient-warm); }
+  .overlay-dark        { background: var(--gradient-overlay); }
+
+  /* ── Starbucks Button System ── */
+  /* All buttons share 50px pill radius + scale(0.95) active */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4375rem 1rem;   /* 7px 16px — Starbucks spec */
+    border-radius: 50px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    border: 1px solid transparent;
+    white-space: nowrap;
+  }
+  .btn:active { transform: scale(0.95); }
+
+  /* Primary filled — Green Accent fill */
+  .btn-primary {
+    background-color: var(--cocoa);
+    color: #ffffff;
+    border-color: var(--cocoa);
+  }
+  .btn-primary:hover { background-color: var(--leaf); border-color: var(--leaf); }
+
+  /* Primary outlined */
+  .btn-outlined {
+    background-color: transparent;
+    color: var(--cocoa);
+    border-color: var(--cocoa);
+  }
+  .btn-outlined:hover { background-color: var(--cocoa); color: #ffffff; }
+
+  /* White filled on dark (Green-on-Green Inverted) */
+  .btn-white {
+    background-color: #ffffff;
+    color: var(--cocoa);
+    border-color: #ffffff;
+  }
+  .btn-white:hover { background-color: var(--cream); }
+
+  /* White outlined on dark */
+  .btn-outlined-white {
+    background-color: transparent;
+    color: #ffffff;
+    border-color: #ffffff;
+  }
+  .btn-outlined-white:hover { background-color: rgba(255,255,255,0.12); }
+
+  /* Honey/Gold CTA */
+  .btn-honey {
+    background-color: var(--honey);
+    color: var(--cocoa);
+    border-color: var(--honey);
+  }
+  .btn-honey:hover { opacity: 0.88; }
+
+  /* Large variant */
+  .btn-lg {
+    padding: 0.75rem 2rem;    /* 12px 32px */
+    font-size: 1rem;
+  }
+
+  /* ── Section rhythm helpers ── */
+  .section-eyebrow {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--honey);
+  }
+}
+
+/* ═══════════════════════════════════════════════════════
+   ANIMATIONS
+═══════════════════════════════════════════════════════ */
+@keyframes wiggle {
+  0%, 100% { transform: rotate(-3deg); }
+  50%       { transform: rotate(3deg); }
+}
+.animate-wiggle {
+  animation: wiggle 2.4s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+@keyframes float-y {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-8px); }
+}
+.animate-float { animation: float-y 4s ease-in-out infinite; }
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in { animation: fade-in 0.5s ease-out forwards; }
+
+/* Image loaded state */
+img { opacity: 0; transition: opacity 0.3s ease-in; }
+img.loaded { opacity: 1; }
+
+/* ── Custom Hover & Premium Animation Effects ── */
+.hover-scale-img {
+  transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.group:hover .hover-scale-img {
+  transform: scale(1.06);
+}
+
+.hover-shadow-premium {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.hover-shadow-premium:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.03);
+}
+
+.icon-wiggle-effect {
+  transition: transform 0.2s ease;
+}
+.group:hover .icon-wiggle-effect {
+  animation: wiggle 0.4s ease-in-out;
+}
+
+/* Modal Animations */
+.animate-modal-bg {
+  animation: modal-bg-fade 0.25s ease-out forwards;
+}
+.animate-modal-content {
+  animation: modal-content-slide 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+@keyframes modal-bg-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes modal-content-slide {
+  from { opacity: 0; transform: scale(0.95) translateY(20px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+/* Speech Bubble animation */
+@keyframes bubble-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+.bubble-float {
+  animation: bubble-float 3s ease-in-out infinite;
+}
+
+/* ── Prefers-reduced-motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ── Premium Hover & Interaction Classes ── */
+.hover-raise {
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.35s ease, border-color 0.35s ease;
+}
+.hover-raise:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.06), 0 4px 12px rgba(0, 0, 0, 0.03);
+}
+
+.image-zoom-container {
+  overflow: hidden;
+  position: relative;
+}
+.image-zoom-container img {
+  transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.group:hover .image-zoom-container img, .hover-raise:hover .image-zoom-container img {
+  transform: scale(1.06);
+}
+
+@keyframes icon-wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-6deg); }
+  75% { transform: rotate(6deg); }
+}
+.icon-wiggle-hover:hover .icon-wiggle, .group:hover .icon-wiggle {
+  animation: icon-wiggle 0.4s ease-in-out 2;
+}
+
+/* Pause hero floating animations on hover */
+.animate-float:hover {
+  animation-play-state: paused;
+}
+
+/* ── Modal & Popup Utilities ── */
+@keyframes slide-in-up {
+  from {
+    transform: translate(-50%, -40%) scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+}
+
+/* ── Map Route Dash Animation ── */
+@keyframes dash {
+  to {
+    stroke-dashoffset: -20;
+  }
+}
+.animate-dash {
+  animation: dash 5s linear infinite;
+}
+
+/* ── Map 3D Perspective Style ── */
+.map-3d-perspective {
+  perspective: 1200px;
+  transform-style: preserve-3d;
+  transform: rotateX(12deg) rotateY(-4deg) rotateZ(1deg);
+  box-shadow: -10px 20px 30px rgba(0, 0, 0, 0.15), 0 10px 15px rgba(0, 0, 0, 0.1) !important;
+  transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.map-3d-perspective:hover {
+  transform: rotateX(6deg) rotateY(-2deg) rotateZ(0.5deg);
+  box-shadow: -5px 10px 20px rgba(0, 0, 0, 0.12), 0 5px 10px rgba(0, 0, 0, 0.08) !important;
+}
+
