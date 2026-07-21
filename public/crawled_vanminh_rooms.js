@@ -564,15 +564,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1723911311506-img5158.JPG",
       "https://files.smartos.space/1723911311521-img5164.JPG",
       "https://files.smartos.space/1723911311541-img5171.JPG",
-      "https://files.smartos.space/1723911311546-img5173.JPG",
-      "https://files.smartos.space/1723911311589-img5174.JPG",
-      "https://files.smartos.space/1723911311552-img5175.JPG",
-      "https://files.smartos.space/1723911311556-img5176.JPG",
-      "https://files.smartos.space/1723911311569-img5177.JPG",
-      "https://files.smartos.space/1723911311603-img5179.JPG",
-      "https://files.smartos.space/1723911311578-img5180.JPG",
-      "https://files.smartos.space/1723911311612-img5182.JPG",
-      "https://files.smartos.space/1723911311619-img5183.JPG"
+      "https://files.smartos.space/1723911311546-img5173.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở CS1: 713 Nguyễn Tất Thành. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -602,9 +594,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1700704597288-img0556.jpg",
       "https://files.smartos.space/1700704597300-img0581.jpg",
       "https://files.smartos.space/1700704597315-img0600.jpg",
-      "https://files.smartos.space/1700704597310-img0604.jpg",
-      "https://files.smartos.space/1700704597319-img0617.jpg",
-      "https://files.smartos.space/1700705432712-img0097.JPG"
+      "https://files.smartos.space/1700704597310-img0604.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở CS1: 713 Nguyễn Tất Thành. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -814,9 +804,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1700704492096-img0556.jpg",
       "https://files.smartos.space/1700704492010-img0581.jpg",
       "https://files.smartos.space/1700704492017-img0600.jpg",
-      "https://files.smartos.space/1700704492004-img0604.jpg",
-      "https://files.smartos.space/1700704491972-img0617.jpg",
-      "https://files.smartos.space/1700705392178-img0097.JPG"
+      "https://files.smartos.space/1700704492004-img0604.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở CS1: 713 Nguyễn Tất Thành. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -1319,14 +1307,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1657599881288-r301-cs5.JPG",
+    "image": "https://files.smartos.space/1723911311535-img5169.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311535-img5169.JPG",
       "https://files.smartos.space/1657599881288-r301-cs5.JPG",
       "https://files.smartos.space/1657599890096-r302-cs5.JPG",
       "https://files.smartos.space/1657599824577-r103-cs5.JPG",
       "https://files.smartos.space/1657599842852-r201-cs5.JPG",
-      "https://files.smartos.space/1657599855429-r202-cs5.JPG",
-      "https://files.smartos.space/1657599872088-r204-cs5.JPG"
+      "https://files.smartos.space/1657599855429-r202-cs5.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở CS5: 49 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 4,
@@ -3509,14 +3497,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1657612611353-r203-cs9.JPG",
+    "image": "https://files.smartos.space/1723911311506-img5158.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311506-img5158.JPG",
       "https://files.smartos.space/1657612611353-r203-cs9.JPG",
       "https://files.smartos.space/1657612566282-r201-cs9.JPG",
       "https://files.smartos.space/1657612762433-r304-cs9.JPG",
       "https://files.smartos.space/1657612744037-r301-cs9.JPG",
-      "https://files.smartos.space/1657612785556-r402-cs9.JPG",
-      "https://files.smartos.space/1663648604674-r204-cs10.JPG"
+      "https://files.smartos.space/1657612785556-r402-cs9.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Hoài Thanh. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -3539,14 +3527,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1657612611353-r203-cs9.JPG",
+    "image": "https://files.smartos.space/1723911311521-img5164.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311521-img5164.JPG",
       "https://files.smartos.space/1657612611353-r203-cs9.JPG",
       "https://files.smartos.space/1657612566282-r201-cs9.JPG",
       "https://files.smartos.space/1657612762433-r304-cs9.JPG",
       "https://files.smartos.space/1657612744037-r301-cs9.JPG",
-      "https://files.smartos.space/1657612785556-r402-cs9.JPG",
-      "https://files.smartos.space/1663648604674-r204-cs10.JPG"
+      "https://files.smartos.space/1657612785556-r402-cs9.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Hoài Thanh. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -3569,14 +3557,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1657612611353-r203-cs9.JPG",
+    "image": "https://files.smartos.space/1723911311541-img5171.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311541-img5171.JPG",
       "https://files.smartos.space/1657612611353-r203-cs9.JPG",
       "https://files.smartos.space/1657612566282-r201-cs9.JPG",
       "https://files.smartos.space/1657612762433-r304-cs9.JPG",
       "https://files.smartos.space/1657612744037-r301-cs9.JPG",
-      "https://files.smartos.space/1657612785556-r402-cs9.JPG",
-      "https://files.smartos.space/1663648604674-r204-cs10.JPG"
+      "https://files.smartos.space/1657612785556-r402-cs9.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Hoài Thanh. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -3636,22 +3624,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721114982212-img9335.JPG",
       "https://files.smartos.space/1721114982197-img9336.JPG",
       "https://files.smartos.space/1721114982216-img9337.JPG",
-      "https://files.smartos.space/1721114982216-img9338.JPG",
-      "https://files.smartos.space/1721114982220-img9340.JPG",
-      "https://files.smartos.space/1721114982230-img9343.JPG",
-      "https://files.smartos.space/1721114982224-img9344.JPG",
-      "https://files.smartos.space/1721114982234-img9345.JPG",
-      "https://files.smartos.space/1721114982230-img9349.JPG",
-      "https://files.smartos.space/1721114982237-img9350.JPG",
-      "https://files.smartos.space/1721114982246-img9352.JPG",
-      "https://files.smartos.space/1721114982239-img9359.JPG",
-      "https://files.smartos.space/1721114982234-img9360.JPG",
-      "https://files.smartos.space/1721114982250-img9361.JPG",
-      "https://files.smartos.space/1721114982246-img9362.JPG",
-      "https://files.smartos.space/1721114982242-img9363.JPG",
-      "https://files.smartos.space/1721114982254-img9367.JPG",
-      "https://files.smartos.space/1721114982251-img9370.JPG",
-      "https://files.smartos.space/1721114982255-img9371.JPG"
+      "https://files.smartos.space/1721114982216-img9338.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 01 Phạm Ngọc Mậu. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -4184,14 +4157,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1657612611353-r203-cs9.JPG",
+    "image": "https://files.smartos.space/1723911311546-img5173.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311546-img5173.JPG",
       "https://files.smartos.space/1657612611353-r203-cs9.JPG",
       "https://files.smartos.space/1657612566282-r201-cs9.JPG",
       "https://files.smartos.space/1657612762433-r304-cs9.JPG",
       "https://files.smartos.space/1657612744037-r301-cs9.JPG",
-      "https://files.smartos.space/1657612785556-r402-cs9.JPG",
-      "https://files.smartos.space/1663648604674-r204-cs10.JPG"
+      "https://files.smartos.space/1657612785556-r402-cs9.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Hoài Thanh. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -4214,14 +4187,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1657612611353-r203-cs9.JPG",
+    "image": "https://files.smartos.space/1723911311589-img5174.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311589-img5174.JPG",
       "https://files.smartos.space/1657612611353-r203-cs9.JPG",
       "https://files.smartos.space/1657612566282-r201-cs9.JPG",
       "https://files.smartos.space/1657612762433-r304-cs9.JPG",
       "https://files.smartos.space/1657612744037-r301-cs9.JPG",
-      "https://files.smartos.space/1657612785556-r402-cs9.JPG",
-      "https://files.smartos.space/1663648604674-r204-cs10.JPG"
+      "https://files.smartos.space/1657612785556-r402-cs9.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Hoài Thanh. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -4244,14 +4217,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1657612611353-r203-cs9.JPG",
+    "image": "https://files.smartos.space/1723911311552-img5175.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311552-img5175.JPG",
       "https://files.smartos.space/1657612611353-r203-cs9.JPG",
       "https://files.smartos.space/1657612566282-r201-cs9.JPG",
       "https://files.smartos.space/1657612762433-r304-cs9.JPG",
       "https://files.smartos.space/1657612744037-r301-cs9.JPG",
-      "https://files.smartos.space/1657612785556-r402-cs9.JPG",
-      "https://files.smartos.space/1663648604674-r204-cs10.JPG"
+      "https://files.smartos.space/1657612785556-r402-cs9.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Hoài Thanh. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -4761,21 +4734,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1722613634832-img4247.JPG",
       "https://files.smartos.space/1722613634844-img4248.JPG",
       "https://files.smartos.space/1722613635012-img4233.JPG",
-      "https://files.smartos.space/1722613634926-img4241.JPG",
-      "https://files.smartos.space/1722613634916-img4242.JPG",
-      "https://files.smartos.space/1722613634897-img4249.JPG",
-      "https://files.smartos.space/1722613635028-img4250.JPG",
-      "https://files.smartos.space/1722613635104-img4276.JPG",
-      "https://files.smartos.space/1722613635043-img4279.JPG",
-      "https://files.smartos.space/1722613634938-img4284.JPG",
-      "https://files.smartos.space/1722613635133-img4293.JPG",
-      "https://files.smartos.space/1722613634816-img4295.JPG",
-      "https://files.smartos.space/1722613635405-img4297.JPG",
-      "https://files.smartos.space/1722613635439-img4300.JPG",
-      "https://files.smartos.space/1722613635340-img4302.JPG",
-      "https://files.smartos.space/1722613635513-img4304.JPG",
-      "https://files.smartos.space/1722613635288-img4306.JPG",
-      "https://files.smartos.space/1722613635308-img4303.JPG"
+      "https://files.smartos.space/1722613634926-img4241.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 40/20/11 Nguyễn Huy Tưởng. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -4835,29 +4794,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1722613514502-img4238.JPG",
       "https://files.smartos.space/1722613514328-img4248.JPG",
       "https://files.smartos.space/1722613514398-img4233.JPG",
-      "https://files.smartos.space/1722613514479-img4241.JPG",
-      "https://files.smartos.space/1722613514416-img4242.JPG",
-      "https://files.smartos.space/1722613514489-img4249.JPG",
-      "https://files.smartos.space/1722613514496-img4250.JPG",
-      "https://files.smartos.space/1722613514484-img4276.JPG",
-      "https://files.smartos.space/1722613514401-img4279.JPG",
-      "https://files.smartos.space/1722613514506-img4284.JPG",
-      "https://files.smartos.space/1722613514395-img4293.JPG",
-      "https://files.smartos.space/1722613514450-img4295.JPG",
-      "https://files.smartos.space/1722613514436-img4296.JPG",
-      "https://files.smartos.space/1722613514388-img4297.JPG",
-      "https://files.smartos.space/1722613514335-img4300.JPG",
-      "https://files.smartos.space/1722613514359-img4302.JPG",
-      "https://files.smartos.space/1722613514493-img4304.JPG",
-      "https://files.smartos.space/1722613514392-img4305.JPG",
-      "https://files.smartos.space/1722613514405-img4306.JPG",
-      "https://files.smartos.space/1722613514356-img4275.JPG",
-      "https://files.smartos.space/1722613514343-img4282.JPG",
-      "https://files.smartos.space/1722613514340-img4286.JPG",
-      "https://files.smartos.space/1722613514472-img4292.JPG",
-      "https://files.smartos.space/1722613514347-img4294.JPG",
-      "https://files.smartos.space/1722613514468-img4301.JPG",
-      "https://files.smartos.space/1722613514384-img4303.JPG"
+      "https://files.smartos.space/1722613514479-img4241.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 40/20/11 Nguyễn Huy Tưởng. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 3,
@@ -5127,8 +5064,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1676428538778-img8463.JPG",
       "https://files.smartos.space/1676428538725-img8467.JPG",
       "https://files.smartos.space/1676428539201-img8472.JPG",
-      "https://files.smartos.space/1676428538833-img8486.JPG",
-      "https://files.smartos.space/1676428539083-img8490.JPG"
+      "https://files.smartos.space/1676428538833-img8486.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 41 Hoài Thanh. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -5241,12 +5177,12 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1663648604674-r204-cs10.JPG",
+    "image": "https://files.smartos.space/1676428573591-img9169.JPG",
     "gallery": [
+      "https://files.smartos.space/1676428573591-img9169.JPG",
       "https://files.smartos.space/1663648604674-r204-cs10.JPG",
       "https://files.smartos.space/1663648747844-r204-cs10.JPG",
       "https://files.smartos.space/1663648551633-r302-cs10.JPG",
-      "https://files.smartos.space/1676428573591-img9169.JPG",
       "https://files.smartos.space/1676428573597-img9173.JPG",
       "https://files.smartos.space/1676428573590-img9176.JPG"
     ],
@@ -5336,25 +5272,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1722049995316-img9769.JPG",
       "https://files.smartos.space/1722049995322-img9770.JPG",
       "https://files.smartos.space/1722049995327-img9766.JPG",
-      "https://files.smartos.space/1722049995345-img9768.JPG",
-      "https://files.smartos.space/1722049995370-img9765.JPG",
-      "https://files.smartos.space/1722049995416-img9762.JPG",
-      "https://files.smartos.space/1722049995444-img9764.JPG",
-      "https://files.smartos.space/1722049995427-img9763.JPG",
-      "https://files.smartos.space/1722049995475-img9761.JPG",
-      "https://files.smartos.space/1722049995470-img9759.JPG",
-      "https://files.smartos.space/1722049995482-img9757.JPG",
-      "https://files.smartos.space/1722049995497-img9758.JPG",
-      "https://files.smartos.space/1722049995487-img9756.JPG",
-      "https://files.smartos.space/1722049995503-img9755.JPG",
-      "https://files.smartos.space/1722049995493-img9753.JPG",
-      "https://files.smartos.space/1722049995386-img9754.JPG",
-      "https://files.smartos.space/1722049995524-img9751.JPG",
-      "https://files.smartos.space/1722049995519-img9750.JPG",
-      "https://files.smartos.space/1722049995528-img9752.JPG",
-      "https://files.smartos.space/1722049995510-img9749.JPG",
-      "https://files.smartos.space/1722049995533-img9748.JPG",
-      "https://files.smartos.space/1722049995539-img9747.JPG"
+      "https://files.smartos.space/1722049995345-img9768.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 01 Phạm Ngọc Mậu. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -5384,22 +5302,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721113829989-img9335.JPG",
       "https://files.smartos.space/1721113829979-img9336.JPG",
       "https://files.smartos.space/1721113829973-img9337.JPG",
-      "https://files.smartos.space/1721113829985-img9338.JPG",
-      "https://files.smartos.space/1721113829973-img9340.JPG",
-      "https://files.smartos.space/1721113829956-img9343.JPG",
-      "https://files.smartos.space/1721113829964-img9344.JPG",
-      "https://files.smartos.space/1721113829996-img9345.JPG",
-      "https://files.smartos.space/1721113829908-img9349.JPG",
-      "https://files.smartos.space/1721113829905-img9350.JPG",
-      "https://files.smartos.space/1721113829961-img9352.JPG",
-      "https://files.smartos.space/1721113829927-img9359.JPG",
-      "https://files.smartos.space/1721113829960-img9360.JPG",
-      "https://files.smartos.space/1721113829968-img9361.JPG",
-      "https://files.smartos.space/1721113829911-img9362.JPG",
-      "https://files.smartos.space/1721113829918-img9363.JPG",
-      "https://files.smartos.space/1721113829944-img9367.JPG",
-      "https://files.smartos.space/1721113829921-img9370.JPG",
-      "https://files.smartos.space/1721113829916-img9371.JPG"
+      "https://files.smartos.space/1721113829985-img9338.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 01 Phạm Ngọc Mậu. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -5721,14 +5624,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1657612611353-r203-cs9.JPG",
+    "image": "https://files.smartos.space/1723911311556-img5176.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311556-img5176.JPG",
       "https://files.smartos.space/1657612611353-r203-cs9.JPG",
       "https://files.smartos.space/1657612566282-r201-cs9.JPG",
       "https://files.smartos.space/1657612762433-r304-cs9.JPG",
       "https://files.smartos.space/1657612744037-r301-cs9.JPG",
-      "https://files.smartos.space/1657612785556-r402-cs9.JPG",
-      "https://files.smartos.space/1663648604674-r204-cs10.JPG"
+      "https://files.smartos.space/1657612785556-r402-cs9.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Hoài Thanh. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6028,8 +5931,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1722958441903-img0805.JPG",
       "https://files.smartos.space/1722958441939-img0806.JPG",
       "https://files.smartos.space/1722958441952-img0808.JPG",
-      "https://files.smartos.space/1722958441958-img0810.JPG",
-      "https://files.smartos.space/1722958441962-img0811.JPG"
+      "https://files.smartos.space/1722958441958-img0810.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 40/20/11 Nguyễn Huy Tưởng. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6142,14 +6044,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1723911311569-img5177.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311569-img5177.JPG",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6172,14 +6074,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1723911311603-img5179.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311603-img5179.JPG",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6202,14 +6104,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1723911311578-img5180.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311578-img5180.JPG",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6232,14 +6134,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1723911311612-img5182.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311612-img5182.JPG",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6262,14 +6164,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1723911311619-img5183.JPG",
     "gallery": [
+      "https://files.smartos.space/1723911311619-img5183.JPG",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6292,14 +6194,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1700704597242-img0554.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704597242-img0554.jpg",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6322,14 +6224,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1700704597288-img0556.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704597288-img0556.jpg",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6352,14 +6254,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1700704597300-img0581.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704597300-img0581.jpg",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6562,16 +6464,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1722586178871-img5765.JPG",
+    "image": "https://files.smartos.space/1722586178883-img5766.JPG",
     "gallery": [
-      "https://files.smartos.space/1722586178871-img5765.JPG",
       "https://files.smartos.space/1722586178883-img5766.JPG",
+      "https://files.smartos.space/1722586178871-img5765.JPG",
       "https://files.smartos.space/1722586178876-img5734.JPG",
       "https://files.smartos.space/1722586178891-img5735.JPG",
       "https://files.smartos.space/1722586178903-img5743.JPG",
-      "https://files.smartos.space/1722586178900-img5728.JPG",
-      "https://files.smartos.space/1722586178907-img5732.JPG",
-      "https://files.smartos.space/1722586178894-img5733.JPG"
+      "https://files.smartos.space/1722586178900-img5728.JPG"
     ],
     "description": "Cơ sở này có đặc điểm:\n• Gần ĐH Đông Á, Kiến Trúc\n• Gần siêu thị Metro\n• Cuối đường Nguyễn Hữu Thọ\n",
     "capacity": 2,
@@ -6594,14 +6494,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1700704597315-img0600.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704597315-img0600.jpg",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6631,18 +6531,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721116383121-img3162.jpg",
       "https://files.smartos.space/1721116383113-img3161.jpg",
       "https://files.smartos.space/1721116383119-img3160.jpg",
-      "https://files.smartos.space/1721116383125-img3159.jpg",
-      "https://files.smartos.space/1721116383130-img3158.jpg",
-      "https://files.smartos.space/1721116383157-img3156.jpg",
-      "https://files.smartos.space/1721116383140-img3155.jpg",
-      "https://files.smartos.space/1721116383167-img3154.jpg",
-      "https://files.smartos.space/1721116383150-img3153.jpg",
-      "https://files.smartos.space/1721116383176-img3152.jpg",
-      "https://files.smartos.space/1721116383161-img3151.jpg",
-      "https://files.smartos.space/1721116383172-img3150.jpg",
-      "https://files.smartos.space/1721116383167-img3148.jpg",
-      "https://files.smartos.space/1721116383157-img3147.jpg",
-      "https://files.smartos.space/1721116383136-img3146.jpg"
+      "https://files.smartos.space/1721116383125-img3159.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6672,27 +6561,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1676431519040-20220824061335267ios.jpg",
       "https://files.smartos.space/1676431522258-20220824061254563ios.jpg",
       "https://files.smartos.space/1676431523458-20220824061050889ios.jpg",
-      "https://files.smartos.space/1676431550662-20220816053705845ios.jpg",
-      "https://files.smartos.space/1676431550403-20220824060732186ios.jpg",
-      "https://files.smartos.space/1676431550686-20220824060749283ios.jpg",
-      "https://files.smartos.space/1676431550719-20220824060830630ios.jpg",
-      "https://files.smartos.space/1676431550405-20220824061022142ios.jpg",
-      "https://files.smartos.space/1676431550403-20220824061050889ios.jpg",
-      "https://files.smartos.space/1676431550577-20220824061254563ios.jpg",
-      "https://files.smartos.space/1676431550691-20220824061308924ios.jpg",
-      "https://files.smartos.space/1676431550807-20220824061335267ios.jpg",
-      "https://files.smartos.space/1676431550607-20220824061343590ios.jpg",
-      "https://files.smartos.space/1721723341389-img1800.jpg",
-      "https://files.smartos.space/1721723341413-img1799.jpg",
-      "https://files.smartos.space/1721723341418-img1798.jpg",
-      "https://files.smartos.space/1721723341444-img1797.jpg",
-      "https://files.smartos.space/1721723341434-img1796.jpg",
-      "https://files.smartos.space/1721723341422-img1795.jpg",
-      "https://files.smartos.space/1721723341448-img1793.jpg",
-      "https://files.smartos.space/1721723341429-img1792.jpg",
-      "https://files.smartos.space/1721723341439-img1791.jpg",
-      "https://files.smartos.space/1721723341458-img1790.jpg",
-      "https://files.smartos.space/1721723341452-img1789.jpg"
+      "https://files.smartos.space/1676431550662-20220816053705845ios.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở K1/29 Phan Hành Sơn. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -6807,10 +6676,10 @@ window.vanminhRoomsData = [
     "priceRange": "2.5tr - 3.5tr",
     "image": "https://files.smartos.space/1662972124098-r1-cs14-b.jpg",
     "gallery": [
+      "https://files.smartos.space/1662972124098-r1-cs14-b.jpg",
       "https://files.smartos.space/1662972124271-r1-cs14-e.jpg",
       "https://files.smartos.space/1662972124132-r1-cs14-d.jpg",
       "https://files.smartos.space/1662972124103-r1-cs14-c.jpg",
-      "https://files.smartos.space/1662972124098-r1-cs14-b.jpg",
       "https://files.smartos.space/1662972124098-r1-cs14.jpg",
       "https://files.smartos.space/1662972043595-r1-cs14.jpg"
     ],
@@ -6837,11 +6706,11 @@ window.vanminhRoomsData = [
     "priceRange": "2.5tr - 3.5tr",
     "image": "https://files.smartos.space/1662972043595-r1-cs14.jpg",
     "gallery": [
+      "https://files.smartos.space/1662972043595-r1-cs14.jpg",
       "https://files.smartos.space/1662972043587-r1-cs14-e.jpg",
       "https://files.smartos.space/1662972043567-r1-cs14-d.jpg",
       "https://files.smartos.space/1662972043568-r1-cs14-c.jpg",
       "https://files.smartos.space/1662972043569-r1-cs14-b.jpg",
-      "https://files.smartos.space/1662972043595-r1-cs14.jpg",
       "https://files.smartos.space/1662972124098-r1-cs14-b.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 1091 Tôn Đản. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
@@ -6895,10 +6764,10 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "1.5tr - 2.5tr",
-    "image": "https://files.smartos.space/1662972124098-r1-cs14-b.jpg",
+    "image": "https://files.smartos.space/1662972124271-r1-cs14-e.jpg",
     "gallery": [
-      "https://files.smartos.space/1662972124098-r1-cs14-b.jpg",
       "https://files.smartos.space/1662972124271-r1-cs14-e.jpg",
+      "https://files.smartos.space/1662972124098-r1-cs14-b.jpg",
       "https://files.smartos.space/1662972124132-r1-cs14-d.jpg",
       "https://files.smartos.space/1662972124103-r1-cs14-c.jpg",
       "https://files.smartos.space/1662972124098-r1-cs14.jpg",
@@ -6957,8 +6826,8 @@ window.vanminhRoomsData = [
     "priceRange": "2.5tr - 3.5tr",
     "image": "https://files.smartos.space/1662971935708-r1-cs14-d.jpg",
     "gallery": [
-      "https://files.smartos.space/1662971935733-r1-cs14-e.jpg",
       "https://files.smartos.space/1662971935708-r1-cs14-d.jpg",
+      "https://files.smartos.space/1662971935733-r1-cs14-e.jpg",
       "https://files.smartos.space/1662971935732-r1-cs14-c.jpg",
       "https://files.smartos.space/1662971935709-r1-cs14-b.jpg",
       "https://files.smartos.space/1662971935718-r1-cs14.jpg",
@@ -7022,9 +6891,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721723237454-20220824060922436ios.jpg",
       "https://files.smartos.space/1721723237450-20220824060942666ios.jpg",
       "https://files.smartos.space/1721723237434-20220824061254563ios.jpg",
-      "https://files.smartos.space/1721723237467-20220824061311075ios.jpg",
-      "https://files.smartos.space/1721723237464-img2016.JPG",
-      "https://files.smartos.space/1721723237444-img2015.JPG"
+      "https://files.smartos.space/1721723237467-20220824061311075ios.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở K1/29 Phan Hành Sơn. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7054,11 +6921,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1676431594644-20220824060749283ios.jpg",
       "https://files.smartos.space/1676431594649-20220824060830630ios.jpg",
       "https://files.smartos.space/1676431594669-20220824061022142ios.jpg",
-      "https://files.smartos.space/1676431594669-20220824061050889ios.jpg",
-      "https://files.smartos.space/1676431594654-20220824061254563ios.jpg",
-      "https://files.smartos.space/1676431594656-20220824061308924ios.jpg",
-      "https://files.smartos.space/1676431594980-20220824061335267ios.jpg",
-      "https://files.smartos.space/1676431594666-20220824061343590ios.jpg"
+      "https://files.smartos.space/1676431594669-20220824061050889ios.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở K1/29 Phan Hành Sơn. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7148,21 +7011,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721054920109-img8796.JPG",
       "https://files.smartos.space/1721054920118-img8797.JPG",
       "https://files.smartos.space/1721054920115-img8798.JPG",
-      "https://files.smartos.space/1721054920123-img8804.JPG",
-      "https://files.smartos.space/1721054920130-img8769.JPG",
-      "https://files.smartos.space/1721054920120-img8773.JPG",
-      "https://files.smartos.space/1721054920148-img8776.JPG",
-      "https://files.smartos.space/1721054920137-img8778.JPG",
-      "https://files.smartos.space/1721054920123-img8779.JPG",
-      "https://files.smartos.space/1721054920141-img8780.JPG",
-      "https://files.smartos.space/1721054920175-img8787.JPG",
-      "https://files.smartos.space/1721054920043-img8789.JPG",
-      "https://files.smartos.space/1721054920045-img8790.JPG",
-      "https://files.smartos.space/1721054920048-img8792.JPG",
-      "https://files.smartos.space/1721054920066-img8793.JPG",
-      "https://files.smartos.space/1721054920066-img8794.JPG",
-      "https://files.smartos.space/1721054920070-img8795.JPG",
-      "https://files.smartos.space/1721054920071-img8805.JPG"
+      "https://files.smartos.space/1721054920123-img8804.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7192,17 +7041,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721118204641-img3162.jpg",
       "https://files.smartos.space/1721118204640-img3161.jpg",
       "https://files.smartos.space/1721118204646-img3160.jpg",
-      "https://files.smartos.space/1721118204646-img3159.jpg",
-      "https://files.smartos.space/1721118204651-img3158.jpg",
-      "https://files.smartos.space/1721118204657-img3157.jpg",
-      "https://files.smartos.space/1721118204686-img3156.jpg",
-      "https://files.smartos.space/1721118204690-img3154.jpg",
-      "https://files.smartos.space/1721118204657-img3153.jpg",
-      "https://files.smartos.space/1721118204661-img3152.jpg",
-      "https://files.smartos.space/1721118204666-img3151.jpg",
-      "https://files.smartos.space/1721118204698-img3150.jpg",
-      "https://files.smartos.space/1721118204682-img3148.jpg",
-      "https://files.smartos.space/1721118204671-img3146.jpg"
+      "https://files.smartos.space/1721118204646-img3159.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7232,16 +7071,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721118484828-img3162.jpg",
       "https://files.smartos.space/1721118484836-img3161.jpg",
       "https://files.smartos.space/1721118484842-img3160.jpg",
-      "https://files.smartos.space/1721118484848-img3159.jpg",
-      "https://files.smartos.space/1721118484849-img3158.jpg",
-      "https://files.smartos.space/1721118484858-img3156.jpg",
-      "https://files.smartos.space/1721118484852-img3154.jpg",
-      "https://files.smartos.space/1721118484867-img3152.jpg",
-      "https://files.smartos.space/1721118484854-img3151.jpg",
-      "https://files.smartos.space/1721118484874-img3150.jpg",
-      "https://files.smartos.space/1721118484871-img3148.jpg",
-      "https://files.smartos.space/1721118484875-img3147.jpg",
-      "https://files.smartos.space/1721118484878-img3146.jpg"
+      "https://files.smartos.space/1721118484848-img3159.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7271,18 +7101,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721118529348-img3162.jpg",
       "https://files.smartos.space/1721118529357-img3161.jpg",
       "https://files.smartos.space/1721118529332-img3160.jpg",
-      "https://files.smartos.space/1721118529384-img3158.jpg",
-      "https://files.smartos.space/1721118529376-img3157.jpg",
-      "https://files.smartos.space/1721118529343-img3156.jpg",
-      "https://files.smartos.space/1721118529383-img3155.jpg",
-      "https://files.smartos.space/1721118529392-img3154.jpg",
-      "https://files.smartos.space/1721118529372-img3153.jpg",
-      "https://files.smartos.space/1721118529403-img3152.jpg",
-      "https://files.smartos.space/1721118529386-img3151.jpg",
-      "https://files.smartos.space/1721118529407-img3150.jpg",
-      "https://files.smartos.space/1721118529411-img3148.jpg",
-      "https://files.smartos.space/1721118529396-img3147.jpg",
-      "https://files.smartos.space/1721118529358-img3146.jpg"
+      "https://files.smartos.space/1721118529384-img3158.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7372,14 +7191,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721118562755-img3162.jpg",
       "https://files.smartos.space/1721118562749-img3161.jpg",
       "https://files.smartos.space/1721118562761-img3160.jpg",
-      "https://files.smartos.space/1721118562766-img3156.jpg",
-      "https://files.smartos.space/1721118562756-img3154.jpg",
-      "https://files.smartos.space/1721118562772-img3153.jpg",
-      "https://files.smartos.space/1721118562772-img3152.jpg",
-      "https://files.smartos.space/1721118562762-img3150.jpg",
-      "https://files.smartos.space/1721118562785-img3148.jpg",
-      "https://files.smartos.space/1721118562776-img3147.jpg",
-      "https://files.smartos.space/1721118562779-img3146.jpg"
+      "https://files.smartos.space/1721118562766-img3156.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7409,13 +7221,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721055333054-img8780.JPG",
       "https://files.smartos.space/1721055333113-img8783.JPG",
       "https://files.smartos.space/1721055333116-img8787.JPG",
-      "https://files.smartos.space/1721055333079-img8788.JPG",
-      "https://files.smartos.space/1721055333061-img8789.JPG",
-      "https://files.smartos.space/1721055333136-img8790.JPG",
-      "https://files.smartos.space/1721055333058-img8792.JPG",
-      "https://files.smartos.space/1721055333120-img8794.JPG",
-      "https://files.smartos.space/1721055333051-img8795.JPG",
-      "https://files.smartos.space/1721055333057-img8805.JPG"
+      "https://files.smartos.space/1721055333079-img8788.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7445,15 +7251,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721118599716-img3162.jpg",
       "https://files.smartos.space/1721118599748-img3161.jpg",
       "https://files.smartos.space/1721118599733-img3160.jpg",
-      "https://files.smartos.space/1721118599753-img3158.jpg",
-      "https://files.smartos.space/1721118599738-img3156.jpg",
-      "https://files.smartos.space/1721118599744-img3154.jpg",
-      "https://files.smartos.space/1721118599765-img3152.jpg",
-      "https://files.smartos.space/1721118599760-img3151.jpg",
-      "https://files.smartos.space/1721118599756-img3150.jpg",
-      "https://files.smartos.space/1721118599769-img3148.jpg",
-      "https://files.smartos.space/1721118599773-img3147.jpg",
-      "https://files.smartos.space/1721118599765-img3146.jpg"
+      "https://files.smartos.space/1721118599753-img3158.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -7478,8 +7276,8 @@ window.vanminhRoomsData = [
     "priceRange": "2.5tr - 3.5tr",
     "image": "https://files.smartos.space/1662971978611-r1-cs14-d.jpg",
     "gallery": [
-      "https://files.smartos.space/1662971978616-r1-cs14-e.jpg",
       "https://files.smartos.space/1662971978611-r1-cs14-d.jpg",
+      "https://files.smartos.space/1662971978616-r1-cs14-e.jpg",
       "https://files.smartos.space/1662971978612-r1-cs14-c.jpg",
       "https://files.smartos.space/1662971978613-r1-cs14-b.jpg",
       "https://files.smartos.space/1662971978621-r1-cs14.jpg",
@@ -7508,10 +7306,10 @@ window.vanminhRoomsData = [
     "priceRange": "2.5tr - 3.5tr",
     "image": "https://files.smartos.space/1662972056727-r1-cs14-b.jpg",
     "gallery": [
+      "https://files.smartos.space/1662972056727-r1-cs14-b.jpg",
       "https://files.smartos.space/1662972056726-r1-cs14-e.jpg",
       "https://files.smartos.space/1662972056724-r1-cs14-d.jpg",
       "https://files.smartos.space/1662972056726-r1-cs14-c.jpg",
-      "https://files.smartos.space/1662972056727-r1-cs14-b.jpg",
       "https://files.smartos.space/1662972056723-r1-cs14.jpg",
       "https://files.smartos.space/1662972124098-r1-cs14-b.jpg"
     ],
@@ -7538,9 +7336,9 @@ window.vanminhRoomsData = [
     "priceRange": "2.5tr - 3.5tr",
     "image": "https://files.smartos.space/1662972082847-r1-cs14-c.jpg",
     "gallery": [
+      "https://files.smartos.space/1662972082847-r1-cs14-c.jpg",
       "https://files.smartos.space/1662972082839-r1-cs14-e.jpg",
       "https://files.smartos.space/1662972082843-r1-cs14-d.jpg",
-      "https://files.smartos.space/1662972082847-r1-cs14-c.jpg",
       "https://files.smartos.space/1662972082845-r1-cs14-b.jpg",
       "https://files.smartos.space/1662972082841-r1-cs14.jpg",
       "https://files.smartos.space/1662972124098-r1-cs14-b.jpg"
@@ -7686,10 +7484,10 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1676449474428-20220824053001815ios.jpg",
+    "image": "https://files.smartos.space/1676449474437-20220824053137352ios.jpg",
     "gallery": [
-      "https://files.smartos.space/1676449474428-20220824053001815ios.jpg",
       "https://files.smartos.space/1676449474437-20220824053137352ios.jpg",
+      "https://files.smartos.space/1676449474428-20220824053001815ios.jpg",
       "https://files.smartos.space/1676449654268-20220824053001815ios.jpg",
       "https://files.smartos.space/1676449654267-20220824053137352ios.jpg",
       "https://files.smartos.space/1676449394703-20220824053013441ios.jpg",
@@ -7926,11 +7724,11 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "1.5tr - 2.5tr",
-    "image": "https://files.smartos.space/1662972124098-r1-cs14-b.jpg",
+    "image": "https://files.smartos.space/1662972124132-r1-cs14-d.jpg",
     "gallery": [
+      "https://files.smartos.space/1662972124132-r1-cs14-d.jpg",
       "https://files.smartos.space/1662972124098-r1-cs14-b.jpg",
       "https://files.smartos.space/1662972124271-r1-cs14-e.jpg",
-      "https://files.smartos.space/1662972124132-r1-cs14-d.jpg",
       "https://files.smartos.space/1662972124103-r1-cs14-c.jpg",
       "https://files.smartos.space/1662972124098-r1-cs14.jpg",
       "https://files.smartos.space/1662972043595-r1-cs14.jpg"
@@ -8023,12 +7821,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721116317679-img3162.jpg",
       "https://files.smartos.space/1721116317682-img3161.jpg",
       "https://files.smartos.space/1721116317688-img3160.jpg",
-      "https://files.smartos.space/1721116317696-img3158.jpg",
-      "https://files.smartos.space/1721116317694-img3157.jpg",
-      "https://files.smartos.space/1721116317743-img3153.jpg",
-      "https://files.smartos.space/1721116317750-img3152.jpg",
-      "https://files.smartos.space/1721116317751-img3148.jpg",
-      "https://files.smartos.space/1721116317760-img3147.jpg"
+      "https://files.smartos.space/1721116317696-img3158.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8058,9 +7851,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721055025540-img8773.JPG",
       "https://files.smartos.space/1721055025543-img8775.JPG",
       "https://files.smartos.space/1721055025556-img8783.JPG",
-      "https://files.smartos.space/1721055025551-img8790.JPG",
-      "https://files.smartos.space/1721055025604-img8793.JPG",
-      "https://files.smartos.space/1721055025566-img8794.JPG"
+      "https://files.smartos.space/1721055025551-img8790.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8090,20 +7881,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721116131330-img3062.jpg",
       "https://files.smartos.space/1721116131338-img3059.jpg",
       "https://files.smartos.space/1721116131339-img3058.jpg",
-      "https://files.smartos.space/1721116131329-img3057.jpg",
-      "https://files.smartos.space/1721116131346-img3056.jpg",
-      "https://files.smartos.space/1721116131264-img3055.jpg",
-      "https://files.smartos.space/1721116131332-img3054.jpg",
-      "https://files.smartos.space/1721116131355-img3053.jpg",
-      "https://files.smartos.space/1721116131262-img3052.jpg",
-      "https://files.smartos.space/1721116131341-img3051.jpg",
-      "https://files.smartos.space/1721116131335-img3049.jpg",
-      "https://files.smartos.space/1721116131285-img3048.jpg",
-      "https://files.smartos.space/1721116131294-img3046.jpg",
-      "https://files.smartos.space/1721116131365-img3042.jpg",
-      "https://files.smartos.space/1721116131273-img3041.jpg",
-      "https://files.smartos.space/1721116131271-img3040.jpg",
-      "https://files.smartos.space/1721116131279-img3039.jpg"
+      "https://files.smartos.space/1721116131329-img3057.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8133,15 +7911,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721118583021-img3162.jpg",
       "https://files.smartos.space/1721118583027-img3161.jpg",
       "https://files.smartos.space/1721118583025-img3160.jpg",
-      "https://files.smartos.space/1721118583028-img3156.jpg",
-      "https://files.smartos.space/1721118583050-img3154.jpg",
-      "https://files.smartos.space/1721118583037-img3153.jpg",
-      "https://files.smartos.space/1721118583059-img3152.jpg",
-      "https://files.smartos.space/1721118583041-img3151.jpg",
-      "https://files.smartos.space/1721118583032-img3150.jpg",
-      "https://files.smartos.space/1721118583041-img3148.jpg",
-      "https://files.smartos.space/1721118583069-img3147.jpg",
-      "https://files.smartos.space/1721118583054-img3146.jpg"
+      "https://files.smartos.space/1721118583028-img3156.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8171,15 +7941,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1725369654691-img5630.JPG",
       "https://files.smartos.space/1725369654687-img5631.JPG",
       "https://files.smartos.space/1725369654649-img5633.JPG",
-      "https://files.smartos.space/1725369654623-img5634.JPG",
-      "https://files.smartos.space/1725369654708-img5635.JPG",
-      "https://files.smartos.space/1725369654633-img5636.JPG",
-      "https://files.smartos.space/1725369654659-img5637.JPG",
-      "https://files.smartos.space/1725369654712-img5639.JPG",
-      "https://files.smartos.space/1725369654679-img8990.JPG",
-      "https://files.smartos.space/1725369654617-img8991.JPG",
-      "https://files.smartos.space/1725369654675-img8994.JPG",
-      "https://files.smartos.space/1725369654704-img8995.JPG"
+      "https://files.smartos.space/1725369654623-img5634.JPG"
     ],
     "description": "Description for room",
     "capacity": 2,
@@ -8232,14 +7994,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1700704597310-img0604.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704597310-img0604.jpg",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8352,14 +8114,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1700704597319-img0617.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704597319-img0617.jpg",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 3,
@@ -8479,9 +8241,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721723381667-20220824060942666ios.jpg",
       "https://files.smartos.space/1721723381670-20220824061254563ios.jpg",
       "https://files.smartos.space/1721723381674-20220824061311075ios.jpg",
-      "https://files.smartos.space/1721723381678-img2013.JPG",
-      "https://files.smartos.space/1721723381686-img2016.JPG",
-      "https://files.smartos.space/1721723381689-img2015.JPG"
+      "https://files.smartos.space/1721723381678-img2013.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở K1/29 Phan Hành Sơn. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8511,14 +8271,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721723318334-img1800.jpg",
       "https://files.smartos.space/1721723318353-img1799.jpg",
       "https://files.smartos.space/1721723318361-img1798.jpg",
-      "https://files.smartos.space/1721723318371-img1797.jpg",
-      "https://files.smartos.space/1721723318386-img1796.jpg",
-      "https://files.smartos.space/1721723318375-img1795.jpg",
-      "https://files.smartos.space/1721723318366-img1793.jpg",
-      "https://files.smartos.space/1721723318410-img1792.jpg",
-      "https://files.smartos.space/1721723318390-img1791.jpg",
-      "https://files.smartos.space/1721723318394-img1790.jpg",
-      "https://files.smartos.space/1721723318405-img1789.jpg"
+      "https://files.smartos.space/1721723318371-img1797.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở K1/29 Phan Hành Sơn. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8548,9 +8301,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721723417700-20220824060942666ios.jpg",
       "https://files.smartos.space/1721723417696-20220824061254563ios.jpg",
       "https://files.smartos.space/1721723417703-20220824061311075ios.jpg",
-      "https://files.smartos.space/1721723417708-img2013.JPG",
-      "https://files.smartos.space/1721723417713-img2016.JPG",
-      "https://files.smartos.space/1721723417719-img2015.JPG"
+      "https://files.smartos.space/1721723417708-img2013.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở K1/29 Phan Hành Sơn. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8670,13 +8421,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721054498706-img8796.JPG",
       "https://files.smartos.space/1721054498707-img8798.JPG",
       "https://files.smartos.space/1721054498726-img8776.JPG",
-      "https://files.smartos.space/1721054498711-img8780.JPG",
-      "https://files.smartos.space/1721054498733-img8787.JPG",
-      "https://files.smartos.space/1721054498724-img8788.JPG",
-      "https://files.smartos.space/1721054498722-img8790.JPG",
-      "https://files.smartos.space/1721054498721-img8792.JPG",
-      "https://files.smartos.space/1721054498730-img8794.JPG",
-      "https://files.smartos.space/1721054498736-img8795.JPG"
+      "https://files.smartos.space/1721054498711-img8780.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8766,14 +8511,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1725369716943-img5630.JPG",
       "https://files.smartos.space/1725369716992-img5631.JPG",
       "https://files.smartos.space/1725369716972-img5633.JPG",
-      "https://files.smartos.space/1725369716997-img5634.JPG",
-      "https://files.smartos.space/1725369716987-img5636.JPG",
-      "https://files.smartos.space/1725369717018-img5637.JPG",
-      "https://files.smartos.space/1725369717014-img5639.JPG",
-      "https://files.smartos.space/1725369717022-img8990.JPG",
-      "https://files.smartos.space/1725369717025-img8991.JPG",
-      "https://files.smartos.space/1725369717008-img8994.JPG",
-      "https://files.smartos.space/1725369717003-img8995.JPG"
+      "https://files.smartos.space/1725369716997-img5634.JPG"
     ],
     "description": "Description for room",
     "capacity": 2,
@@ -8893,9 +8631,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1720794085300-20220824060830630ios.jpg",
       "https://files.smartos.space/1720794085342-20220824060942666ios.jpg",
       "https://files.smartos.space/1720794085320-20220824061022142ios.jpg",
-      "https://files.smartos.space/1720794085308-20220824061257348ios.jpg",
-      "https://files.smartos.space/1720794085315-20220824061311075ios.jpg",
-      "https://files.smartos.space/1720794085352-20220824061343590ios.jpg"
+      "https://files.smartos.space/1720794085308-20220824061257348ios.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở K1/29 Phan Hành Sơn. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -8955,14 +8691,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721116339154-img3162.jpg",
       "https://files.smartos.space/1721116339149-img3161.jpg",
       "https://files.smartos.space/1721116339163-img3160.jpg",
-      "https://files.smartos.space/1721116339169-img3158.jpg",
-      "https://files.smartos.space/1721116339177-img3157.jpg",
-      "https://files.smartos.space/1721116339171-img3154.jpg",
-      "https://files.smartos.space/1721116339186-img3153.jpg",
-      "https://files.smartos.space/1721116339181-img3152.jpg",
-      "https://files.smartos.space/1721116339194-img3151.jpg",
-      "https://files.smartos.space/1721116339201-img3148.jpg",
-      "https://files.smartos.space/1721116339182-img3147.jpg"
+      "https://files.smartos.space/1721116339169-img3158.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -9022,18 +8751,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721116196972-img3063.jpg",
       "https://files.smartos.space/1721116196972-img3062.jpg",
       "https://files.smartos.space/1721116196977-img3059.jpg",
-      "https://files.smartos.space/1721116196981-img3058.jpg",
-      "https://files.smartos.space/1721116196977-img3057.jpg",
-      "https://files.smartos.space/1721116196982-img3056.jpg",
-      "https://files.smartos.space/1721116196989-img3055.jpg",
-      "https://files.smartos.space/1721116196994-img3054.jpg",
-      "https://files.smartos.space/1721116196986-img3053.jpg",
-      "https://files.smartos.space/1721116196992-img3052.jpg",
-      "https://files.smartos.space/1721116196985-img3050.jpg",
-      "https://files.smartos.space/1721116196989-img3048.jpg",
-      "https://files.smartos.space/1721116196999-img3047.jpg",
-      "https://files.smartos.space/1721116196995-img3046.jpg",
-      "https://files.smartos.space/1721116197003-img3039.jpg"
+      "https://files.smartos.space/1721116196981-img3058.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -9063,8 +8781,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1722586239033-img5735.JPG",
       "https://files.smartos.space/1722586239016-img5743.JPG",
       "https://files.smartos.space/1722586239036-img5728.JPG",
-      "https://files.smartos.space/1722586239030-img5732.JPG",
-      "https://files.smartos.space/1722586239039-img5733.JPG"
+      "https://files.smartos.space/1722586239030-img5732.JPG"
     ],
     "description": "Cơ sở này có đặc điểm:\n• Gần ĐH Đông Á, Kiến Trúc\n• Gần siêu thị Metro\n• Cuối đường Nguyễn Hữu Thọ\n",
     "capacity": 2,
@@ -9154,9 +8871,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1722586138624-img5734.JPG",
       "https://files.smartos.space/1722586138635-img5735.JPG",
       "https://files.smartos.space/1722586138630-img5743.JPG",
-      "https://files.smartos.space/1722586138627-img5728.JPG",
-      "https://files.smartos.space/1722586138638-img5732.JPG",
-      "https://files.smartos.space/1722586138641-img5733.JPG"
+      "https://files.smartos.space/1722586138627-img5728.JPG"
     ],
     "description": "Cơ sở này có đặc điểm:\n• Gần ĐH Đông Á, Kiến Trúc\n• Gần siêu thị Metro\n• Cuối đường Nguyễn Hữu Thọ\n",
     "capacity": 2,
@@ -9275,18 +8990,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721118458062-img3162.jpg",
       "https://files.smartos.space/1721118458068-img3161.jpg",
       "https://files.smartos.space/1721118458064-img3160.jpg",
-      "https://files.smartos.space/1721118458081-img3158.jpg",
-      "https://files.smartos.space/1721118458095-img3157.jpg",
-      "https://files.smartos.space/1721118458083-img3156.jpg",
-      "https://files.smartos.space/1721118458087-img3155.jpg",
-      "https://files.smartos.space/1721118458079-img3154.jpg",
-      "https://files.smartos.space/1721118458076-img3153.jpg",
-      "https://files.smartos.space/1721118458142-img3152.jpg",
-      "https://files.smartos.space/1721118458137-img3151.jpg",
-      "https://files.smartos.space/1721118458144-img3150.jpg",
-      "https://files.smartos.space/1721118458102-img3148.jpg",
-      "https://files.smartos.space/1721118458150-img3147.jpg",
-      "https://files.smartos.space/1721118458137-img3146.jpg"
+      "https://files.smartos.space/1721118458081-img3158.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 18 Cổ Mân 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -9309,14 +9013,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1700705432712-img0097.JPG",
     "gallery": [
+      "https://files.smartos.space/1700705432712-img0097.JPG",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -9339,14 +9043,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1695192999655-img1055.jpg",
+    "image": "https://files.smartos.space/1700704492088-img0554.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704492088-img0554.jpg",
       "https://files.smartos.space/1695192999655-img1055.jpg",
       "https://files.smartos.space/1657598333662-r302-cs4.jpg",
       "https://files.smartos.space/1657597795031-r103-cs4.JPG",
       "https://files.smartos.space/1657598284782-r201-cs4.JPG",
-      "https://files.smartos.space/1657598395873-r404-cs4.JPG",
-      "https://files.smartos.space/1657598326231-r301-cs4.JPG"
+      "https://files.smartos.space/1657598395873-r404-cs4.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở  28/14 Trương Chí Cương. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -9397,10 +9101,10 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "3.5tr - 5tr",
-    "image": "https://files.smartos.space/1717996315680-img7153.JPG",
+    "image": "https://files.smartos.space/1717996315632-img7142.JPG",
     "gallery": [
-      "https://files.smartos.space/1717996315680-img7153.JPG",
       "https://files.smartos.space/1717996315632-img7142.JPG",
+      "https://files.smartos.space/1717996315680-img7153.JPG",
       "https://files.smartos.space/1717996315646-img7143.JPG",
       "https://files.smartos.space/1717996315649-img7148.JPG",
       "https://files.smartos.space/1717996315654-img7149.JPG",
@@ -9426,11 +9130,11 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1717996315680-img7153.JPG",
+    "image": "https://files.smartos.space/1717996315646-img7143.JPG",
     "gallery": [
+      "https://files.smartos.space/1717996315646-img7143.JPG",
       "https://files.smartos.space/1717996315680-img7153.JPG",
       "https://files.smartos.space/1717996315632-img7142.JPG",
-      "https://files.smartos.space/1717996315646-img7143.JPG",
       "https://files.smartos.space/1717996315649-img7148.JPG",
       "https://files.smartos.space/1717996315654-img7149.JPG",
       "https://files.smartos.space/1717996315657-img7150.JPG"
@@ -9486,21 +9190,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1715410202513-img5421.JPG",
+    "image": "https://files.smartos.space/1715410202536-img5409.JPG",
     "gallery": [
-      "https://files.smartos.space/1715410202513-img5421.JPG",
       "https://files.smartos.space/1715410202536-img5409.JPG",
+      "https://files.smartos.space/1715410202513-img5421.JPG",
       "https://files.smartos.space/1715410202557-img5427.JPG",
       "https://files.smartos.space/1715410202586-img5441.JPG",
       "https://files.smartos.space/1715410202610-img5410.JPG",
-      "https://files.smartos.space/1715410202627-img5432.JPG",
-      "https://files.smartos.space/1715410202604-img5420.JPG",
-      "https://files.smartos.space/1715410202572-img5436.JPG",
-      "https://files.smartos.space/1715410202618-img5440.JPG",
-      "https://files.smartos.space/1715410202594-img5422.JPG",
-      "https://files.smartos.space/1715410202614-img5425.JPG",
-      "https://files.smartos.space/1715410202623-img5429.JPG",
-      "https://files.smartos.space/1715410202630-img5435.JPG"
+      "https://files.smartos.space/1715410202627-img5432.JPG"
     ],
     "description": "Phòng gác lửng 20m2 (P202)của  cơ sở 23 Đá Mọc 04\n• cách ĐH Duy Tân Hoà Khánh Nam: 1,8km\n• cách CĐ FPT Polytechnic cơ sở 2: 450m\n• cách bến xe TT Đà Nẵng: 1,3 km\n\nGiá phòng cho 2-3 người là 2.650.000đ/tháng.\n",
     "capacity": 2,
@@ -9530,15 +9227,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1715404006710-img5401.JPG",
       "https://files.smartos.space/1715404006716-img5353.JPG",
       "https://files.smartos.space/1715404006719-img5369.JPG",
-      "https://files.smartos.space/1715404006724-img5370.JPG",
-      "https://files.smartos.space/1715404006727-img5372.JPG",
-      "https://files.smartos.space/1715404006730-img5373.JPG",
-      "https://files.smartos.space/1715404006746-img5392.JPG",
-      "https://files.smartos.space/1715404006743-img5393.JPG",
-      "https://files.smartos.space/1715404006714-img5394.JPG",
-      "https://files.smartos.space/1715404006739-img5397.JPG",
-      "https://files.smartos.space/1715404006753-img5398.JPG",
-      "https://files.smartos.space/1715404006756-img5399.JPG"
+      "https://files.smartos.space/1715404006724-img5370.JPG"
     ],
     "description": "Phòng gác lửng 20m2 (P303)của  cơ sở 23 Đá Mọc 04\n• cách ĐH Duy Tân Hoà Khánh Nam: 1,8km\n• cách CĐ FPT Polytechnic cơ sở 2: 450m\n• cách bến xe TT Đà Nẵng: 1,3 km\n\nGiá phòng cho 2-3 người là 2.650.000đ/tháng.\n",
     "capacity": 2,
@@ -9568,12 +9257,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1715405414829-img5285.JPG",
       "https://files.smartos.space/1715405414860-img5313.JPG",
       "https://files.smartos.space/1715405414797-img5318.JPG",
-      "https://files.smartos.space/1715405414869-img5319.JPG",
-      "https://files.smartos.space/1715405414816-img5321.JPG",
-      "https://files.smartos.space/1715405414854-img5322.JPG",
-      "https://files.smartos.space/1715405414833-img5323.JPG",
-      "https://files.smartos.space/1715405414778-img5324.JPG",
-      "https://files.smartos.space/1715405414864-img5329.JPG"
+      "https://files.smartos.space/1715405414869-img5319.JPG"
     ],
     "description": "Phòng gác lửng 20m2 (P204)của  cơ sở 23 Đá Mọc 04\n• cách ĐH Duy Tân Hoà Khánh Nam: 1,8km\n• cách CĐ FPT Polytechnic cơ sở 2: 450m\n• cách bến xe TT Đà Nẵng: 1,3 km\n\nGiá phòng cho 2-3 người là 2.750.000đ/tháng.\n",
     "capacity": 2,
@@ -9595,31 +9279,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1717996315680-img7153.JPG",
+    "image": "https://files.smartos.space/1717996315649-img7148.JPG",
     "gallery": [
+      "https://files.smartos.space/1717996315649-img7148.JPG",
       "https://files.smartos.space/1717996315680-img7153.JPG",
       "https://files.smartos.space/1717996315632-img7142.JPG",
       "https://files.smartos.space/1717996315646-img7143.JPG",
-      "https://files.smartos.space/1717996315649-img7148.JPG",
       "https://files.smartos.space/1717996315654-img7149.JPG",
-      "https://files.smartos.space/1717996315657-img7150.JPG",
-      "https://files.smartos.space/1717996315670-img7151.JPG",
-      "https://files.smartos.space/1717996315675-img7152.JPG",
-      "https://files.smartos.space/1717996315684-img7154.JPG",
-      "https://files.smartos.space/1717996315687-img7155.JPG",
-      "https://files.smartos.space/1717996315693-img7156.JPG",
-      "https://files.smartos.space/1717996315689-img7157.JPG",
-      "https://files.smartos.space/1717996315705-img7158.JPG",
-      "https://files.smartos.space/1717996315713-img7159.JPG",
-      "https://files.smartos.space/1717996315721-img7160.JPG",
-      "https://files.smartos.space/1717996315731-img7162.JPG",
-      "https://files.smartos.space/1717996315735-img7163.JPG",
-      "https://files.smartos.space/1717996315701-img7164.JPG",
-      "https://files.smartos.space/1717996315737-img7165.JPG",
-      "https://files.smartos.space/1717996315748-img7166.JPG",
-      "https://files.smartos.space/1717996315744-img7167.JPG",
-      "https://files.smartos.space/1717996315741-img7169.JPG",
-      "https://files.smartos.space/1717996315753-img7170.JPG"
+      "https://files.smartos.space/1717996315657-img7150.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -9648,24 +9315,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996476846-img7148.JPG",
       "https://files.smartos.space/1717996476849-img7149.JPG",
       "https://files.smartos.space/1717996476852-img7150.JPG",
-      "https://files.smartos.space/1717996476855-img7151.JPG",
-      "https://files.smartos.space/1717996476858-img7152.JPG",
-      "https://files.smartos.space/1717996476861-img7153.JPG",
-      "https://files.smartos.space/1717996476886-img7154.JPG",
-      "https://files.smartos.space/1717996476865-img7155.JPG",
-      "https://files.smartos.space/1717996476889-img7156.JPG",
-      "https://files.smartos.space/1717996476871-img7157.JPG",
-      "https://files.smartos.space/1717996476868-img7158.JPG",
-      "https://files.smartos.space/1717996476892-img7159.JPG",
-      "https://files.smartos.space/1717996476881-img7160.JPG",
-      "https://files.smartos.space/1717996476878-img7162.JPG",
-      "https://files.smartos.space/1717996476895-img7163.JPG",
-      "https://files.smartos.space/1717996476875-img7164.JPG",
-      "https://files.smartos.space/1717996476901-img7165.JPG",
-      "https://files.smartos.space/1717996476907-img7166.JPG",
-      "https://files.smartos.space/1717996476904-img7167.JPG",
-      "https://files.smartos.space/1717996476910-img7169.JPG",
-      "https://files.smartos.space/1717996476898-img7170.JPG"
+      "https://files.smartos.space/1717996476855-img7151.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -9694,24 +9344,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996265388-img7143.JPG",
       "https://files.smartos.space/1717996265410-img7148.JPG",
       "https://files.smartos.space/1717996265419-img7149.JPG",
-      "https://files.smartos.space/1717996265432-img7150.JPG",
-      "https://files.smartos.space/1717996265440-img7151.JPG",
-      "https://files.smartos.space/1717996265445-img7152.JPG",
-      "https://files.smartos.space/1717996265450-img7154.JPG",
-      "https://files.smartos.space/1717996265467-img7155.JPG",
-      "https://files.smartos.space/1717996265402-img7156.JPG",
-      "https://files.smartos.space/1717996265461-img7157.JPG",
-      "https://files.smartos.space/1717996265457-img7158.JPG",
-      "https://files.smartos.space/1717996265477-img7159.JPG",
-      "https://files.smartos.space/1717996265471-img7160.JPG",
-      "https://files.smartos.space/1717996265474-img7162.JPG",
-      "https://files.smartos.space/1717996265480-img7163.JPG",
-      "https://files.smartos.space/1717996265484-img7164.JPG",
-      "https://files.smartos.space/1717996265491-img7165.JPG",
-      "https://files.smartos.space/1717996265494-img7166.JPG",
-      "https://files.smartos.space/1717996265488-img7167.JPG",
-      "https://files.smartos.space/1717996265500-img7169.JPG",
-      "https://files.smartos.space/1717996265497-img7170.JPG"
+      "https://files.smartos.space/1717996265432-img7150.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -9740,27 +9373,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996973911-img7196.JPG",
       "https://files.smartos.space/1717996973904-img7197.JPG",
       "https://files.smartos.space/1717996973914-img7202.JPG",
-      "https://files.smartos.space/1717996973917-img7203.JPG",
-      "https://files.smartos.space/1717996973920-img7207.JPG",
-      "https://files.smartos.space/1717996973923-img7208.JPG",
-      "https://files.smartos.space/1717996973925-img7220.JPG",
-      "https://files.smartos.space/1717996973907-img7221.JPG",
-      "https://files.smartos.space/1717996973949-img7223.JPG",
-      "https://files.smartos.space/1717996973953-img7183.JPG",
-      "https://files.smartos.space/1717996973928-img7185.JPG",
-      "https://files.smartos.space/1717996973933-img7198.JPG",
-      "https://files.smartos.space/1717996973969-img7201.JPG",
-      "https://files.smartos.space/1717996973937-img7205.JPG",
-      "https://files.smartos.space/1717996973978-img7206.JPG",
-      "https://files.smartos.space/1717996973984-img7212.JPG",
-      "https://files.smartos.space/1717996973989-img7213.JPG",
-      "https://files.smartos.space/1717996973940-img7214.JPG",
-      "https://files.smartos.space/1717996973943-img7215.JPG",
-      "https://files.smartos.space/1717996973994-img7216.JPG",
-      "https://files.smartos.space/1717996973997-img7217.JPG",
-      "https://files.smartos.space/1717996973946-img7218.JPG",
-      "https://files.smartos.space/1717996974005-img7219.JPG",
-      "https://files.smartos.space/1717996974002-img7222.JPG"
+      "https://files.smartos.space/1717996973917-img7203.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -9789,25 +9402,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717997284026-img7251.JPG",
       "https://files.smartos.space/1717997284130-img7253.JPG",
       "https://files.smartos.space/1717997284133-img7259.JPG",
-      "https://files.smartos.space/1717997284107-img7262.JPG",
-      "https://files.smartos.space/1717997284112-img7263.JPG",
-      "https://files.smartos.space/1717997284011-img7267.JPG",
-      "https://files.smartos.space/1717997284022-img7272.JPG",
-      "https://files.smartos.space/1717997283998-img7276.JPG",
-      "https://files.smartos.space/1717997284001-img7278.JPG",
-      "https://files.smartos.space/1717997283985-img7281.JPG",
-      "https://files.smartos.space/1717997283992-img7283.JPG",
-      "https://files.smartos.space/1717997284030-img7284.JPG",
-      "https://files.smartos.space/1717997284033-img7287.JPG",
-      "https://files.smartos.space/1717997284039-img7252.JPG",
-      "https://files.smartos.space/1717997284036-img7254.JPG",
-      "https://files.smartos.space/1717997284005-img7258.JPG",
-      "https://files.smartos.space/1717997284052-img7264.JPG",
-      "https://files.smartos.space/1717997284045-img7265.JPG",
-      "https://files.smartos.space/1717997284057-img7274.JPG",
-      "https://files.smartos.space/1717997284061-img7277.JPG",
-      "https://files.smartos.space/1717997284065-img7279.JPG",
-      "https://files.smartos.space/1717997284093-img7282.JPG"
+      "https://files.smartos.space/1717997284107-img7262.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -9836,26 +9431,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717997232123-img7251.JPG",
       "https://files.smartos.space/1717997232127-img7253.JPG",
       "https://files.smartos.space/1717997232130-img7259.JPG",
-      "https://files.smartos.space/1717997232139-img7260.JPG",
-      "https://files.smartos.space/1717997232142-img7261.JPG",
-      "https://files.smartos.space/1717997232133-img7262.JPG",
-      "https://files.smartos.space/1717997232171-img7272.JPG",
-      "https://files.smartos.space/1717997232175-img7276.JPG",
-      "https://files.smartos.space/1717997232183-img7283.JPG",
-      "https://files.smartos.space/1717997232188-img7284.JPG",
-      "https://files.smartos.space/1717997232147-img7287.JPG",
-      "https://files.smartos.space/1717997232197-img7252.JPG",
-      "https://files.smartos.space/1717997232193-img7254.JPG",
-      "https://files.smartos.space/1717997232200-img7256.JPG",
-      "https://files.smartos.space/1717997232150-img7258.JPG",
-      "https://files.smartos.space/1717997232203-img7264.JPG",
-      "https://files.smartos.space/1717997232159-img7265.JPG",
-      "https://files.smartos.space/1717997232205-img7273.JPG",
-      "https://files.smartos.space/1717997232208-img7274.JPG",
-      "https://files.smartos.space/1717997232163-img7277.JPG",
-      "https://files.smartos.space/1717997232211-img7279.JPG",
-      "https://files.smartos.space/1717997232213-img7280.JPG",
-      "https://files.smartos.space/1717997232216-img7282.JPG"
+      "https://files.smartos.space/1717997232139-img7260.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -9884,25 +9460,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996604885-img7184.JPG",
       "https://files.smartos.space/1717996604901-img7197.JPG",
       "https://files.smartos.space/1717996604906-img7202.JPG",
-      "https://files.smartos.space/1717996604909-img7203.JPG",
-      "https://files.smartos.space/1717996604913-img7207.JPG",
-      "https://files.smartos.space/1717996604918-img7208.JPG",
-      "https://files.smartos.space/1717996604929-img7221.JPG",
-      "https://files.smartos.space/1717996604933-img7223.JPG",
-      "https://files.smartos.space/1717996604926-img7183.JPG",
-      "https://files.smartos.space/1717996604935-img7185.JPG",
-      "https://files.smartos.space/1717996604921-img7198.JPG",
-      "https://files.smartos.space/1717996604944-img7200.JPG",
-      "https://files.smartos.space/1717996604948-img7204.JPG",
-      "https://files.smartos.space/1717996604978-img7206.JPG",
-      "https://files.smartos.space/1717996604971-img7212.JPG",
-      "https://files.smartos.space/1717996604958-img7213.JPG",
-      "https://files.smartos.space/1717996604986-img7214.JPG",
-      "https://files.smartos.space/1717996604982-img7215.JPG",
-      "https://files.smartos.space/1717996604992-img7217.JPG",
-      "https://files.smartos.space/1717996604989-img7218.JPG",
-      "https://files.smartos.space/1717996604997-img7219.JPG",
-      "https://files.smartos.space/1717996605001-img7222.JPG"
+      "https://files.smartos.space/1717996604909-img7203.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n• Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -9931,20 +9489,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996809092-img7184.JPG",
       "https://files.smartos.space/1717996809103-img7197.JPG",
       "https://files.smartos.space/1717996809106-img7202.JPG",
-      "https://files.smartos.space/1717996809111-img7221.JPG",
-      "https://files.smartos.space/1717996809119-img7183.JPG",
-      "https://files.smartos.space/1717996809127-img7198.JPG",
-      "https://files.smartos.space/1717996809155-img7200.JPG",
-      "https://files.smartos.space/1717996809151-img7204.JPG",
-      "https://files.smartos.space/1717996809135-img7206.JPG",
-      "https://files.smartos.space/1717996809182-img7212.JPG",
-      "https://files.smartos.space/1717996809170-img7213.JPG",
-      "https://files.smartos.space/1717996809189-img7214.JPG",
-      "https://files.smartos.space/1717996809186-img7215.JPG",
-      "https://files.smartos.space/1717996809205-img7217.JPG",
-      "https://files.smartos.space/1717996809162-img7218.JPG",
-      "https://files.smartos.space/1717996809194-img7219.JPG",
-      "https://files.smartos.space/1717996809211-img7222.JPG"
+      "https://files.smartos.space/1717996809111-img7221.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -9973,36 +9518,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996031727-img7070.JPG",
       "https://files.smartos.space/1717996031732-img7072.JPG",
       "https://files.smartos.space/1717996031737-img7074.JPG",
-      "https://files.smartos.space/1717996031740-img7076.JPG",
-      "https://files.smartos.space/1717996031743-img7081.JPG",
-      "https://files.smartos.space/1717996031748-img7083.JPG",
-      "https://files.smartos.space/1717996031758-img7088.JPG",
-      "https://files.smartos.space/1717996031769-img7090.JPG",
-      "https://files.smartos.space/1717996031822-img7092.JPG",
-      "https://files.smartos.space/1717996031786-img7094.JPG",
-      "https://files.smartos.space/1717996031794-img7096.JPG",
-      "https://files.smartos.space/1717996031817-img7097.JPG",
-      "https://files.smartos.space/1717996031813-img7098.JPG",
-      "https://files.smartos.space/1717996031826-img7099.JPG",
-      "https://files.smartos.space/1717996031752-img7100.JPG",
-      "https://files.smartos.space/1717996031847-img7102.JPG",
-      "https://files.smartos.space/1717996031805-img7095.JPG",
-      "https://files.smartos.space/1717996031810-img7078.JPG",
-      "https://files.smartos.space/1717996031850-img7079.JPG",
-      "https://files.smartos.space/1717996031853-img7086.JPG",
-      "https://files.smartos.space/1717996031844-img7087.JPG",
-      "https://files.smartos.space/1717996031856-img7089.JPG",
-      "https://files.smartos.space/1717996031831-img7091.JPG",
-      "https://files.smartos.space/1717996031859-img7068.JPG",
-      "https://files.smartos.space/1717996031837-img7071.JPG",
-      "https://files.smartos.space/1717996031840-img7073.JPG",
-      "https://files.smartos.space/1717996031865-img7075.JPG",
-      "https://files.smartos.space/1717996031898-img7077.JPG",
-      "https://files.smartos.space/1717996031881-img7080.JPG",
-      "https://files.smartos.space/1717996031888-img7082.JPG",
-      "https://files.smartos.space/1717996031892-img7085.JPG",
-      "https://files.smartos.space/1717996031884-img7093.JPG",
-      "https://files.smartos.space/1717996031877-img7101.JPG"
+      "https://files.smartos.space/1717996031740-img7076.JPG"
     ],
     "description": "Căn hộ mini 30m2 phù hợp cho 2-4 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 4,
@@ -10031,39 +9547,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1722614013186-img8563.JPG",
       "https://files.smartos.space/1722614013193-img8568.JPG",
       "https://files.smartos.space/1722614013203-img8569.JPG",
-      "https://files.smartos.space/1722614013210-img8572.JPG",
-      "https://files.smartos.space/1722614013225-img8573.JPG",
-      "https://files.smartos.space/1722614013219-img8574.JPG",
-      "https://files.smartos.space/1722614013213-img8575.JPG",
-      "https://files.smartos.space/1722614013216-img8576.JPG",
-      "https://files.smartos.space/1722614013190-img8577.JPG",
-      "https://files.smartos.space/1722614013222-img8578.JPG",
-      "https://files.smartos.space/1722614013228-img8581.JPG",
-      "https://files.smartos.space/1722614013231-img8582.JPG",
-      "https://files.smartos.space/1722614013234-img8583.JPG",
-      "https://files.smartos.space/1722614013239-img8584.JPG",
-      "https://files.smartos.space/1722614013242-img8586.JPG",
-      "https://files.smartos.space/1722614013245-img8587.JPG",
-      "https://files.smartos.space/1722614013258-img8588.JPG",
-      "https://files.smartos.space/1722614013255-img8589.JPG",
-      "https://files.smartos.space/1722614013269-img8590.JPG",
-      "https://files.smartos.space/1722614013283-img8591.JPG",
-      "https://files.smartos.space/1722614013294-img8592.JPG",
-      "https://files.smartos.space/1722614013273-img8593.JPG",
-      "https://files.smartos.space/1722614013287-img8594.JPG",
-      "https://files.smartos.space/1722614013280-img8595.JPG",
-      "https://files.smartos.space/1722614013290-img8596.JPG",
-      "https://files.smartos.space/1722614013302-img8597.JPG",
-      "https://files.smartos.space/1722614013326-img8598.JPG",
-      "https://files.smartos.space/1722614013331-img8621.JPG",
-      "https://files.smartos.space/1722614013315-img8636.JPG",
-      "https://files.smartos.space/1722614013336-img8637.JPG",
-      "https://files.smartos.space/1722614013350-img8642.JPG",
-      "https://files.smartos.space/1722614013340-img8643.JPG",
-      "https://files.smartos.space/1722614013343-img8645.JPG",
-      "https://files.smartos.space/1722614013346-img8646.JPG",
-      "https://files.smartos.space/1722614013357-img8650.JPG",
-      "https://files.smartos.space/1722614013353-img8622.JPG"
+      "https://files.smartos.space/1722614013210-img8572.JPG"
     ],
     "description": "Căn hộ mini 30m2 phù hợp cho 2-4 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -10145,10 +9629,10 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1731336490589-img4586.JPG",
+    "image": "https://files.smartos.space/1731375407988-img4585.JPG",
     "gallery": [
-      "https://files.smartos.space/1731336490589-img4586.JPG",
       "https://files.smartos.space/1731375407988-img4585.JPG",
+      "https://files.smartos.space/1731336490589-img4586.JPG",
       "https://files.smartos.space/1731375407981-img4586.JPG",
       "https://files.smartos.space/1731375407992-img4587.JPG",
       "https://files.smartos.space/1731375407996-img4588.JPG",
@@ -10175,19 +9659,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1731336490589-img4586.JPG",
+    "image": "https://files.smartos.space/1731375407981-img4586.JPG",
     "gallery": [
+      "https://files.smartos.space/1731375407981-img4586.JPG",
       "https://files.smartos.space/1731336490589-img4586.JPG",
       "https://files.smartos.space/1731375407988-img4585.JPG",
-      "https://files.smartos.space/1731375407981-img4586.JPG",
       "https://files.smartos.space/1731375407992-img4587.JPG",
       "https://files.smartos.space/1731375407996-img4588.JPG",
-      "https://files.smartos.space/1731375408002-img4589.JPG",
-      "https://files.smartos.space/1731375408010-img4590.JPG",
-      "https://files.smartos.space/1731375408006-img4591.JPG",
-      "https://files.smartos.space/1731375408029-img4592.JPG",
-      "https://files.smartos.space/1731375408037-img4593.JPG",
-      "https://files.smartos.space/1731375408043-img4594.JPG"
+      "https://files.smartos.space/1731375408002-img4589.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở Lô 169 Lê Hồng Phong nối dài (Cẩm Phô, Hội An, Quảng Nam). Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10217,11 +9696,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1731375421280-img4586.JPG",
       "https://files.smartos.space/1731375421285-img4587.JPG",
       "https://files.smartos.space/1731375421289-img4588.JPG",
-      "https://files.smartos.space/1731375421298-img4589.JPG",
-      "https://files.smartos.space/1731375421294-img4590.JPG",
-      "https://files.smartos.space/1731375421337-img4592.JPG",
-      "https://files.smartos.space/1731375421327-img4593.JPG",
-      "https://files.smartos.space/1731375421352-img4594.JPG"
+      "https://files.smartos.space/1731375421298-img4589.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở Lô 169 Lê Hồng Phong nối dài (Cẩm Phô, Hội An, Quảng Nam). Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10251,11 +9726,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1731375446792-img4587.JPG",
       "https://files.smartos.space/1731375446798-img4588.JPG",
       "https://files.smartos.space/1731375446788-img4589.JPG",
-      "https://files.smartos.space/1731375446813-img4590.JPG",
-      "https://files.smartos.space/1731375446805-img4591.JPG",
-      "https://files.smartos.space/1731375446819-img4592.JPG",
-      "https://files.smartos.space/1731375446833-img4593.JPG",
-      "https://files.smartos.space/1731375446828-img4594.JPG"
+      "https://files.smartos.space/1731375446813-img4590.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở Lô 169 Lê Hồng Phong nối dài (Cẩm Phô, Hội An, Quảng Nam). Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10285,11 +9756,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1731375459991-img4587.JPG",
       "https://files.smartos.space/1731375459994-img4588.JPG",
       "https://files.smartos.space/1731375459999-img4589.JPG",
-      "https://files.smartos.space/1731375460012-img4590.JPG",
-      "https://files.smartos.space/1731375460017-img4591.JPG",
-      "https://files.smartos.space/1731375460021-img4592.JPG",
-      "https://files.smartos.space/1731375460006-img4593.JPG",
-      "https://files.smartos.space/1731375460027-img4594.JPG"
+      "https://files.smartos.space/1731375460012-img4590.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở Lô 169 Lê Hồng Phong nối dài (Cẩm Phô, Hội An, Quảng Nam). Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10319,8 +9786,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1731377051738-img4602.JPG",
       "https://files.smartos.space/1731377051753-img4603.JPG",
       "https://files.smartos.space/1731377051795-img4604.JPG",
-      "https://files.smartos.space/1731377051784-img4605.JPG",
-      "https://files.smartos.space/1731377051809-img4606.JPG"
+      "https://files.smartos.space/1731377051784-img4605.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở Lô 169 Lê Hồng Phong nối dài (Cẩm Phô, Hội An, Quảng Nam). Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10350,8 +9816,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1731377060536-img4602.JPG",
       "https://files.smartos.space/1731377060545-img4603.JPG",
       "https://files.smartos.space/1731377060552-img4604.JPG",
-      "https://files.smartos.space/1731377060540-img4605.JPG",
-      "https://files.smartos.space/1731377060548-img4606.JPG"
+      "https://files.smartos.space/1731377060540-img4605.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở Lô 169 Lê Hồng Phong nối dài (Cẩm Phô, Hội An, Quảng Nam). Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10381,8 +9846,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1731377086013-img4602.JPG",
       "https://files.smartos.space/1731377086009-img4603.JPG",
       "https://files.smartos.space/1731377086024-img4604.JPG",
-      "https://files.smartos.space/1731377086020-img4605.JPG",
-      "https://files.smartos.space/1731377086031-img4606.JPG"
+      "https://files.smartos.space/1731377086020-img4605.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở Lô 169 Lê Hồng Phong nối dài (Cẩm Phô, Hội An, Quảng Nam). Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10404,14 +9868,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1700704492096-img0556.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704492096-img0556.jpg",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10433,14 +9897,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1700704492010-img0581.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704492010-img0581.jpg",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 3,
@@ -10462,14 +9926,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1700704492017-img0600.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704492017-img0600.jpg",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10491,14 +9955,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1700704492004-img0604.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704492004-img0604.jpg",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10520,14 +9984,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1700704491972-img0617.jpg",
     "gallery": [
+      "https://files.smartos.space/1700704491972-img0617.jpg",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10549,14 +10013,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1700705392178-img0097.JPG",
     "gallery": [
+      "https://files.smartos.space/1700705392178-img0097.JPG",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10578,14 +10042,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1676428573597-img9173.JPG",
     "gallery": [
+      "https://files.smartos.space/1676428573597-img9173.JPG",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10607,14 +10071,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1676428573590-img9176.JPG",
     "gallery": [
+      "https://files.smartos.space/1676428573590-img9176.JPG",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10636,14 +10100,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1721114982204-img9312.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982204-img9312.JPG",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 20,
@@ -10665,14 +10129,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1721114982212-img9335.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982212-img9335.JPG",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 4,
@@ -10694,14 +10158,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1721114982197-img9336.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982197-img9336.JPG",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10724,11 +10188,11 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1722586178871-img5765.JPG",
+    "image": "https://files.smartos.space/1722586178876-img5734.JPG",
     "gallery": [
+      "https://files.smartos.space/1722586178876-img5734.JPG",
       "https://files.smartos.space/1722586178871-img5765.JPG",
       "https://files.smartos.space/1722586178883-img5766.JPG",
-      "https://files.smartos.space/1722586178876-img5734.JPG",
       "https://files.smartos.space/1722586178891-img5735.JPG",
       "https://files.smartos.space/1722586178903-img5743.JPG",
       "https://files.smartos.space/1722586178900-img5728.JPG"
@@ -10761,10 +10225,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1715958395602-img5838.JPG",
       "https://files.smartos.space/1715958395606-img5845.JPG",
       "https://files.smartos.space/1715958395609-img5850.JPG",
-      "https://files.smartos.space/1715958395623-img5856.JPG",
-      "https://files.smartos.space/1715958395612-img5859.JPG",
-      "https://files.smartos.space/1715958395633-img5865.JPG",
-      "https://files.smartos.space/1715958395630-img5847.JPG"
+      "https://files.smartos.space/1715958395623-img5856.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 23 Đá Mọc 4. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10793,23 +10254,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1721119357283-img3114.jpg",
       "https://files.smartos.space/1721119357374-img3115.jpg",
       "https://files.smartos.space/1721119357388-img3117.jpg",
-      "https://files.smartos.space/1721119357304-img3121.jpg",
-      "https://files.smartos.space/1721119357379-img3106.jpg",
-      "https://files.smartos.space/1721119357312-img3107.jpg",
-      "https://files.smartos.space/1721119357392-img3108.jpg",
-      "https://files.smartos.space/1721119357333-img3109.jpg",
-      "https://files.smartos.space/1721119357384-img3110.jpg",
-      "https://files.smartos.space/1721119357319-img3100.jpg",
-      "https://files.smartos.space/1721119357397-img3101.jpg",
-      "https://files.smartos.space/1721119357324-img3102.jpg",
-      "https://files.smartos.space/1721119357389-img3103.jpg",
-      "https://files.smartos.space/1721119357337-img3104.jpg",
-      "https://files.smartos.space/1721119357402-img3105.jpg",
-      "https://files.smartos.space/1721119357330-img3095.jpg",
-      "https://files.smartos.space/1721119357392-img3096.jpg",
-      "https://files.smartos.space/1721119357318-img3097.jpg",
-      "https://files.smartos.space/1721119357436-img3098.jpg",
-      "https://files.smartos.space/1721119357327-img3099.jpg"
+      "https://files.smartos.space/1721119357304-img3121.jpg"
     ],
     "description": "Phòng gia đình tầng  G",
     "capacity": 2,
@@ -10838,23 +10283,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996299112-img7143.JPG",
       "https://files.smartos.space/1717996299127-img7149.JPG",
       "https://files.smartos.space/1717996299144-img7150.JPG",
-      "https://files.smartos.space/1717996299152-img7151.JPG",
-      "https://files.smartos.space/1717996299172-img7152.JPG",
-      "https://files.smartos.space/1717996299164-img7153.JPG",
-      "https://files.smartos.space/1717996299194-img7154.JPG",
-      "https://files.smartos.space/1717996299191-img7156.JPG",
-      "https://files.smartos.space/1717996299201-img7157.JPG",
-      "https://files.smartos.space/1717996299204-img7158.JPG",
-      "https://files.smartos.space/1717996299182-img7159.JPG",
-      "https://files.smartos.space/1717996299221-img7160.JPG",
-      "https://files.smartos.space/1717996299217-img7162.JPG",
-      "https://files.smartos.space/1717996299213-img7163.JPG",
-      "https://files.smartos.space/1717996299209-img7164.JPG",
-      "https://files.smartos.space/1717996299246-img7165.JPG",
-      "https://files.smartos.space/1717996299226-img7166.JPG",
-      "https://files.smartos.space/1717996299255-img7167.JPG",
-      "https://files.smartos.space/1717996299101-img7169.JPG",
-      "https://files.smartos.space/1717996299105-img7170.JPG"
+      "https://files.smartos.space/1717996299152-img7151.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -10884,16 +10313,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1715409182197-img5457.JPG",
       "https://files.smartos.space/1715409182220-img5467.JPG",
       "https://files.smartos.space/1715409182225-img5468.JPG",
-      "https://files.smartos.space/1715409182243-img5471.JPG",
-      "https://files.smartos.space/1715409182261-img5469.JPG",
-      "https://files.smartos.space/1715409182214-img5474.JPG",
-      "https://files.smartos.space/1715409182272-img5478.JPG",
-      "https://files.smartos.space/1715409182276-img5481.JPG",
-      "https://files.smartos.space/1715409182287-img5491.JPG",
-      "https://files.smartos.space/1715409182282-img5493.JPG",
-      "https://files.smartos.space/1715409182296-img5503.JPG",
-      "https://files.smartos.space/1715409182291-img5475.JPG",
-      "https://files.smartos.space/1715409182301-img5484.JPG"
+      "https://files.smartos.space/1715409182243-img5471.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 23 Đá Mọc 4. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10915,14 +10335,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1721114982216-img9337.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982216-img9337.JPG",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -10952,16 +10372,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1715405481124-img5313.JPG",
       "https://files.smartos.space/1715405481128-img5318.JPG",
       "https://files.smartos.space/1715405481121-img5320.JPG",
-      "https://files.smartos.space/1715405481134-img5322.JPG",
-      "https://files.smartos.space/1715405481137-img5323.JPG",
-      "https://files.smartos.space/1715405481140-img5324.JPG",
-      "https://files.smartos.space/1715405481153-img5325.JPG",
-      "https://files.smartos.space/1715405481163-img5327.JPG",
-      "https://files.smartos.space/1715405481192-img5328.JPG",
-      "https://files.smartos.space/1715405481196-img5329.JPG",
-      "https://files.smartos.space/1715405481182-img5332.JPG",
-      "https://files.smartos.space/1715405481199-img5311.JPG",
-      "https://files.smartos.space/1715405481205-img5330.JPG"
+      "https://files.smartos.space/1715405481134-img5322.JPG"
     ],
     "description": "Phòng gác lửng 20m2 (P304)của  cơ sở 23 Đá Mọc 04\n• cách ĐH Duy Tân Hoà Khánh Nam: 1,8km\n• cách CĐ FPT Polytechnic cơ sở 2: 450m\n• cách bến xe TT Đà Nẵng: 1,3 km\n\nGiá phòng cho 2-3 người là 2.750.000đ/tháng.\n",
     "capacity": 2,
@@ -10983,10 +10394,10 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1721116383123-img3157.jpg",
+    "image": "https://files.smartos.space/1721116383112-img3172.jpg",
     "gallery": [
-      "https://files.smartos.space/1721116383123-img3157.jpg",
       "https://files.smartos.space/1721116383112-img3172.jpg",
+      "https://files.smartos.space/1721116383123-img3157.jpg",
       "https://files.smartos.space/1721116383121-img3162.jpg",
       "https://files.smartos.space/1721116383113-img3161.jpg",
       "https://files.smartos.space/1721116383119-img3160.jpg",
@@ -11020,14 +10431,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1715409121900-img5468.JPG",
       "https://files.smartos.space/1715409121910-img5471.JPG",
       "https://files.smartos.space/1715409121920-img5474.JPG",
-      "https://files.smartos.space/1715409121936-img5477.JPG",
-      "https://files.smartos.space/1715409121941-img5481.JPG",
-      "https://files.smartos.space/1715409121952-img5482.JPG",
-      "https://files.smartos.space/1715409121886-img5483.JPG",
-      "https://files.smartos.space/1715409121958-img5490.JPG",
-      "https://files.smartos.space/1715409121984-img5472.JPG",
-      "https://files.smartos.space/1715409121998-img5475.JPG",
-      "https://files.smartos.space/1715409121962-img5484.JPG"
+      "https://files.smartos.space/1715409121936-img5477.JPG"
     ],
     "description": "Phòng gác lửng 20m2 của  cơ sở 23 Đá Mọc 04\n• cách ĐH Duy Tân Hoà Khánh Nam: 1,8km\n• cách CĐ FPT Polytechnic cơ sở 2: 450m\n• cách bến xe TT Đà Nẵng: 1,3 km\n\nGiá phòng cho 2-3 người là 2.900.000đ/tháng.\n",
     "capacity": 2,
@@ -11080,10 +10484,10 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1759725533389-img5075.JPG",
     "gallery": [
-      "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
+      "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
       "https://files.smartos.space/1759725533393-img5069.JPG",
@@ -11110,11 +10514,11 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1759725533405-img5077.JPG",
     "gallery": [
+      "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
-      "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
       "https://files.smartos.space/1759725533393-img5069.JPG",
       "https://files.smartos.space/1759725513078-img4988.JPG"
@@ -11140,12 +10544,12 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1759725533400-img5068.JPG",
     "gallery": [
+      "https://files.smartos.space/1759725533400-img5068.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
-      "https://files.smartos.space/1759725533400-img5068.JPG",
       "https://files.smartos.space/1759725533393-img5069.JPG",
       "https://files.smartos.space/1759725513078-img4988.JPG"
     ],
@@ -11170,13 +10574,13 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1759725533393-img5069.JPG",
     "gallery": [
+      "https://files.smartos.space/1759725533393-img5069.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
       "https://files.smartos.space/1759725513078-img4988.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
@@ -11200,14 +10604,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1721114982216-img9338.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982216-img9338.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
-      "https://files.smartos.space/1759725513078-img4988.JPG"
+      "https://files.smartos.space/1759725533393-img5069.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11230,14 +10634,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1721114982220-img9340.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982220-img9340.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
-      "https://files.smartos.space/1759725513078-img4988.JPG"
+      "https://files.smartos.space/1759725533393-img5069.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11260,14 +10664,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1721114982230-img9343.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982230-img9343.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
-      "https://files.smartos.space/1759725513078-img4988.JPG"
+      "https://files.smartos.space/1759725533393-img5069.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11290,14 +10694,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1721114982224-img9344.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982224-img9344.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
-      "https://files.smartos.space/1759725513078-img4988.JPG"
+      "https://files.smartos.space/1759725533393-img5069.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11320,14 +10724,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1721114982234-img9345.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982234-img9345.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
-      "https://files.smartos.space/1759725513078-img4988.JPG"
+      "https://files.smartos.space/1759725533393-img5069.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11350,14 +10754,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1721114982230-img9349.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982230-img9349.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
-      "https://files.smartos.space/1759725513078-img4988.JPG"
+      "https://files.smartos.space/1759725533393-img5069.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11380,14 +10784,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1721114982237-img9350.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982237-img9350.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
-      "https://files.smartos.space/1759725513078-img4988.JPG"
+      "https://files.smartos.space/1759725533393-img5069.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11417,9 +10821,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1759725513088-img4961.JPG",
       "https://files.smartos.space/1759725513108-img5024.JPG",
       "https://files.smartos.space/1759725513098-img5018.JPG",
-      "https://files.smartos.space/1759725513093-img5020.JPG",
-      "https://files.smartos.space/1759725513128-img5016.JPG",
-      "https://files.smartos.space/1759725513113-img5012.JPG"
+      "https://files.smartos.space/1759725513093-img5020.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11448,21 +10850,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717995914932-img7090.JPG",
       "https://files.smartos.space/1717995914937-img7092.JPG",
       "https://files.smartos.space/1717995914940-img7094.JPG",
-      "https://files.smartos.space/1717995914953-img7098.JPG",
-      "https://files.smartos.space/1717995914901-img7099.JPG",
-      "https://files.smartos.space/1717995914926-img7100.JPG",
-      "https://files.smartos.space/1717995914969-img7102.JPG",
-      "https://files.smartos.space/1717995914972-img7095.JPG",
-      "https://files.smartos.space/1717995914976-img7089.JPG",
-      "https://files.smartos.space/1717995914990-img7091.JPG",
-      "https://files.smartos.space/1717995915008-img7101.JPG",
-      "https://files.smartos.space/1735956463229-img8562.JPG",
-      "https://files.smartos.space/1735956463219-img8566.JPG",
-      "https://files.smartos.space/1735956463239-img8572.JPG",
-      "https://files.smartos.space/1735956463266-img8575.JPG",
-      "https://files.smartos.space/1735956463300-img8637.JPG",
-      "https://files.smartos.space/1735956463290-img8645.JPG",
-      "https://files.smartos.space/1735956463315-img8586.JPG"
+      "https://files.smartos.space/1717995914953-img7098.JPG"
     ],
     "description": "Căn hộ mini 30m2 phù hợp cho 2-4 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -11484,11 +10872,11 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1721116383123-img3157.jpg",
+    "image": "https://files.smartos.space/1721116383121-img3162.jpg",
     "gallery": [
+      "https://files.smartos.space/1721116383121-img3162.jpg",
       "https://files.smartos.space/1721116383123-img3157.jpg",
       "https://files.smartos.space/1721116383112-img3172.jpg",
-      "https://files.smartos.space/1721116383121-img3162.jpg",
       "https://files.smartos.space/1721116383113-img3161.jpg",
       "https://files.smartos.space/1721116383119-img3160.jpg",
       "https://files.smartos.space/1721116383125-img3159.jpg"
@@ -11514,12 +10902,12 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1721116383123-img3157.jpg",
+    "image": "https://files.smartos.space/1721116383113-img3161.jpg",
     "gallery": [
+      "https://files.smartos.space/1721116383113-img3161.jpg",
       "https://files.smartos.space/1721116383123-img3157.jpg",
       "https://files.smartos.space/1721116383112-img3172.jpg",
       "https://files.smartos.space/1721116383121-img3162.jpg",
-      "https://files.smartos.space/1721116383113-img3161.jpg",
       "https://files.smartos.space/1721116383119-img3160.jpg",
       "https://files.smartos.space/1721116383125-img3159.jpg"
     ],
@@ -11604,10 +10992,10 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1760606393524-img8253.JPG",
     "gallery": [
-      "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
+      "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
       "https://files.smartos.space/1760606393544-img8272.JPG",
@@ -11634,11 +11022,11 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1760606393529-img8256.JPG",
     "gallery": [
+      "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
-      "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
       "https://files.smartos.space/1760606393544-img8272.JPG",
       "https://files.smartos.space/1761376139178-img9828.JPG"
@@ -11664,12 +11052,12 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1760606393539-img8262.JPG",
     "gallery": [
+      "https://files.smartos.space/1760606393539-img8262.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
-      "https://files.smartos.space/1760606393539-img8262.JPG",
       "https://files.smartos.space/1760606393544-img8272.JPG",
       "https://files.smartos.space/1761376139178-img9828.JPG"
     ],
@@ -11694,13 +11082,13 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1760606393544-img8272.JPG",
     "gallery": [
+      "https://files.smartos.space/1760606393544-img8272.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
       "https://files.smartos.space/1761376139178-img9828.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
@@ -11724,14 +11112,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982246-img9352.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982246-img9352.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11754,14 +11142,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982239-img9359.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982239-img9359.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11784,14 +11172,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982234-img9360.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982234-img9360.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11814,14 +11202,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982250-img9361.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982250-img9361.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11874,14 +11262,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982246-img9362.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982246-img9362.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11964,14 +11352,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982242-img9363.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982242-img9363.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -11994,14 +11382,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982254-img9367.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982254-img9367.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12024,14 +11412,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982251-img9370.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982251-img9370.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12054,14 +11442,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1721114982255-img9371.JPG",
     "gallery": [
+      "https://files.smartos.space/1721114982255-img9371.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12114,14 +11502,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1722613634809-img4238.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613634809-img4238.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12144,14 +11532,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1722613634832-img4247.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613634832-img4247.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12174,14 +11562,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1722613634844-img4248.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613634844-img4248.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12210,8 +11598,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996055125-img7099.JPG",
       "https://files.smartos.space/1717996055138-img7102.JPG",
       "https://files.smartos.space/1717996055112-img7095.JPG",
-      "https://files.smartos.space/1717996055144-img7089.JPG",
-      "https://files.smartos.space/1754721020332-163.jpg"
+      "https://files.smartos.space/1717996055144-img7089.JPG"
     ],
     "description": "Căn hộ mini 30m2 phù hợp cho 2-4 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -12241,11 +11628,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1759725481538-img4961.JPG",
       "https://files.smartos.space/1759725481572-img4960.JPG",
       "https://files.smartos.space/1759725481578-img5024.JPG",
-      "https://files.smartos.space/1759725481599-img5018.JPG",
-      "https://files.smartos.space/1759725481566-img5020.JPG",
-      "https://files.smartos.space/1759725481560-img5016.JPG",
-      "https://files.smartos.space/1759725481584-img5014.JPG",
-      "https://files.smartos.space/1759725481613-img5012.JPG"
+      "https://files.smartos.space/1759725481599-img5018.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12275,22 +11658,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1715410137914-img5430.JPG",
       "https://files.smartos.space/1715410137874-img5433.JPG",
       "https://files.smartos.space/1715410137894-img5441.JPG",
-      "https://files.smartos.space/1715410137961-img5410.JPG",
-      "https://files.smartos.space/1715410137928-img5432.JPG",
-      "https://files.smartos.space/1715410137936-img5444.JPG",
-      "https://files.smartos.space/1715410137883-img5420.JPG",
-      "https://files.smartos.space/1715410137969-img5428.JPG",
-      "https://files.smartos.space/1715410137973-img5436.JPG",
-      "https://files.smartos.space/1715410137988-img5440.JPG",
-      "https://files.smartos.space/1715410137919-img5414.JPG",
-      "https://files.smartos.space/1715410137957-img5415.JPG",
-      "https://files.smartos.space/1715410137907-img5416.JPG",
-      "https://files.smartos.space/1715410137992-img5419.JPG",
-      "https://files.smartos.space/1715410137977-img5422.JPG",
-      "https://files.smartos.space/1715410137995-img5425.JPG",
-      "https://files.smartos.space/1715410137981-img5426.JPG",
-      "https://files.smartos.space/1715410137898-img5437.JPG",
-      "https://files.smartos.space/1715410137941-img5442.JPG"
+      "https://files.smartos.space/1715410137961-img5410.JPG"
     ],
     "description": "Phòng gác lửng 20m2 (P302)của  cơ sở 23 Đá Mọc 04\n• cách ĐH Duy Tân Hoà Khánh Nam: 1,8km\n• cách CĐ FPT Polytechnic cơ sở 2: 450m\n• cách bến xe TT Đà Nẵng: 1,3 km\n\nGiá phòng cho 2-3 người là 2.650.000đ/tháng.\n",
     "capacity": 2,
@@ -12312,13 +11680,13 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "3.5tr - 5tr",
-    "image": "https://files.smartos.space/1717996315680-img7153.JPG",
+    "image": "https://files.smartos.space/1717996315654-img7149.JPG",
     "gallery": [
+      "https://files.smartos.space/1717996315654-img7149.JPG",
       "https://files.smartos.space/1717996315680-img7153.JPG",
       "https://files.smartos.space/1717996315632-img7142.JPG",
       "https://files.smartos.space/1717996315646-img7143.JPG",
       "https://files.smartos.space/1717996315649-img7148.JPG",
-      "https://files.smartos.space/1717996315654-img7149.JPG",
       "https://files.smartos.space/1717996315657-img7150.JPG"
     ],
     "description": "Tổ ấm mới cho cư dân ở quận Hải Châu, căn hộ mới này:\n• Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\nSở hữu 2 loại phòng căn hộ xinh 20m2, với giá thuê mỗi phòng chỉ từ 3trXXX\n",
@@ -12349,11 +11717,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1715403923038-img5395.JPG",
       "https://files.smartos.space/1715403922997-img5355.JPG",
       "https://files.smartos.space/1715403923018-img5364.JPG",
-      "https://files.smartos.space/1715403923013-img5369.JPG",
-      "https://files.smartos.space/1715403922992-img5371.JPG",
-      "https://files.smartos.space/1715403922965-img5397.JPG",
-      "https://files.smartos.space/1715403923025-img5398.JPG",
-      "https://files.smartos.space/1715403923029-img5399.JPG"
+      "https://files.smartos.space/1715403923013-img5369.JPG"
     ],
     "description": "Phòng gác lửng 20m2 (P203)của  cơ sở 23 Đá Mọc 04\n• cách ĐH Duy Tân Hoà Khánh Nam: 1,8km\n• cách CĐ FPT Polytechnic cơ sở 2: 450m\n• cách bến xe TT Đà Nẵng: 1,3 km\n\nGiá phòng cho 2-3 người là 2.650.000đ/tháng.\n",
     "capacity": 2,
@@ -12383,11 +11747,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1731375472446-img4587.JPG",
       "https://files.smartos.space/1731375472449-img4588.JPG",
       "https://files.smartos.space/1731375472453-img4589.JPG",
-      "https://files.smartos.space/1731375472470-img4590.JPG",
-      "https://files.smartos.space/1731375472467-img4591.JPG",
-      "https://files.smartos.space/1731375472456-img4592.JPG",
-      "https://files.smartos.space/1731375472464-img4593.JPG",
-      "https://files.smartos.space/1731375472473-img4594.JPG"
+      "https://files.smartos.space/1731375472470-img4590.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở Lô 169 Lê Hồng Phong nối dài (Cẩm Phô, Hội An, Quảng Nam). Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12410,14 +11770,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1759725533383-img5074.JPG",
+    "image": "https://files.smartos.space/1722613635012-img4233.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613635012-img4233.JPG",
       "https://files.smartos.space/1759725533383-img5074.JPG",
       "https://files.smartos.space/1759725533389-img5075.JPG",
       "https://files.smartos.space/1759725533405-img5077.JPG",
       "https://files.smartos.space/1759725533400-img5068.JPG",
-      "https://files.smartos.space/1759725533393-img5069.JPG",
-      "https://files.smartos.space/1759725513078-img4988.JPG"
+      "https://files.smartos.space/1759725533393-img5069.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 65 Nguyễn Thuật. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12439,14 +11799,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1658294151153-r12-cs11.jpg",
+    "image": "https://files.smartos.space/1722613634926-img4241.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613634926-img4241.JPG",
       "https://files.smartos.space/1658294151153-r12-cs11.jpg",
       "https://files.smartos.space/1658294047596-r1-cs11.jpg",
       "https://files.smartos.space/1658294100716-r6-cs11.jpg",
       "https://files.smartos.space/1658294090835-r5-cs11.jpg",
-      "https://files.smartos.space/1658294060037-r2-cs11.jpg",
-      "https://files.smartos.space/1658294069934-r3-cs11.jpg"
+      "https://files.smartos.space/1658294060037-r2-cs11.jpg"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 84 Khánh An 8. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12475,27 +11835,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717997199269-img7253.JPG",
       "https://files.smartos.space/1717997199280-img7261.JPG",
       "https://files.smartos.space/1717997199274-img7262.JPG",
-      "https://files.smartos.space/1717997199283-img7263.JPG",
-      "https://files.smartos.space/1717997199286-img7267.JPG",
-      "https://files.smartos.space/1717997199291-img7272.JPG",
-      "https://files.smartos.space/1717997199289-img7276.JPG",
-      "https://files.smartos.space/1717997199299-img7278.JPG",
-      "https://files.smartos.space/1717997199325-img7281.JPG",
-      "https://files.smartos.space/1717997199307-img7283.JPG",
-      "https://files.smartos.space/1717997199327-img7284.JPG",
-      "https://files.smartos.space/1717997199319-img7287.JPG",
-      "https://files.smartos.space/1717997199302-img7252.JPG",
-      "https://files.smartos.space/1717997199305-img7254.JPG",
-      "https://files.smartos.space/1717997199338-img7256.JPG",
-      "https://files.smartos.space/1717997199333-img7258.JPG",
-      "https://files.smartos.space/1717997199341-img7264.JPG",
-      "https://files.smartos.space/1717997199344-img7265.JPG",
-      "https://files.smartos.space/1717997199347-img7273.JPG",
-      "https://files.smartos.space/1717997199296-img7274.JPG",
-      "https://files.smartos.space/1717997199349-img7277.JPG",
-      "https://files.smartos.space/1717997199352-img7279.JPG",
-      "https://files.smartos.space/1717997199357-img7280.JPG",
-      "https://files.smartos.space/1717997199354-img7282.JPG"
+      "https://files.smartos.space/1717997199283-img7263.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -12524,25 +11864,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1717996643046-img7196.JPG",
       "https://files.smartos.space/1717996643035-img7197.JPG",
       "https://files.smartos.space/1717996643070-img7202.JPG",
-      "https://files.smartos.space/1717996643067-img7207.JPG",
-      "https://files.smartos.space/1717996643079-img7208.JPG",
-      "https://files.smartos.space/1717996643082-img7220.JPG",
-      "https://files.smartos.space/1717996643088-img7221.JPG",
-      "https://files.smartos.space/1717996643092-img7223.JPG",
-      "https://files.smartos.space/1717996643097-img7183.JPG",
-      "https://files.smartos.space/1717996643100-img7185.JPG",
-      "https://files.smartos.space/1717996643094-img7198.JPG",
-      "https://files.smartos.space/1717996643112-img7201.JPG",
-      "https://files.smartos.space/1717996643138-img7204.JPG",
-      "https://files.smartos.space/1717996643120-img7206.JPG",
-      "https://files.smartos.space/1717996643117-img7212.JPG",
-      "https://files.smartos.space/1717996643128-img7213.JPG",
-      "https://files.smartos.space/1717996643109-img7214.JPG",
-      "https://files.smartos.space/1717996643105-img7215.JPG",
-      "https://files.smartos.space/1717996643103-img7217.JPG",
-      "https://files.smartos.space/1717996643161-img7218.JPG",
-      "https://files.smartos.space/1717996643122-img7219.JPG",
-      "https://files.smartos.space/1717996643133-img7222.JPG"
+      "https://files.smartos.space/1717996643067-img7207.JPG"
     ],
     "description": "Căn hộ mini 15m2 phù hợp cho  1-2 người. \n•  Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\n",
     "capacity": 2,
@@ -12602,9 +11924,7 @@ window.vanminhRoomsData = [
       "https://files.smartos.space/1722614328909-img0579.JPG",
       "https://files.smartos.space/1722614328861-img0583.JPG",
       "https://files.smartos.space/1722614328886-img0585.JPG",
-      "https://files.smartos.space/1722958701729-img2741.JPG",
-      "https://files.smartos.space/1722958701724-img2742.JPG",
-      "https://files.smartos.space/1722958701735-img2744.JPG"
+      "https://files.smartos.space/1722958701729-img2741.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở CS1: 713 Nguyễn Tất Thành. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12626,14 +11946,14 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1717996315680-img7153.JPG",
+    "image": "https://files.smartos.space/1717996315657-img7150.JPG",
     "gallery": [
+      "https://files.smartos.space/1717996315657-img7150.JPG",
       "https://files.smartos.space/1717996315680-img7153.JPG",
       "https://files.smartos.space/1717996315632-img7142.JPG",
       "https://files.smartos.space/1717996315646-img7143.JPG",
       "https://files.smartos.space/1717996315649-img7148.JPG",
-      "https://files.smartos.space/1717996315654-img7149.JPG",
-      "https://files.smartos.space/1717996315657-img7150.JPG"
+      "https://files.smartos.space/1717996315654-img7149.JPG"
     ],
     "description": "Tổ ấm mới cho cư dân ở quận Hải Châu, căn hộ mới này:\n• Cách ĐH Duy Tân 400m\n• Gần ĐH Y dược\n• Gần BV Hoàn Mỹ\n• Gần Cầu Rồng\n• Gần sân bay\n• Cực kỳ nhiều dịch vụ ăn uống xung quanh\nSở hữu 2 loại phòng căn hộ xinh 20m2, với giá thuê mỗi phòng chỉ từ 3trXXX\n",
     "capacity": 2,
@@ -12655,12 +11975,12 @@ window.vanminhRoomsData = [
       "Môi trường văn minh"
     ],
     "priceRange": "3.5tr - 5tr",
-    "image": "https://files.smartos.space/1722586178871-img5765.JPG",
+    "image": "https://files.smartos.space/1722586178891-img5735.JPG",
     "gallery": [
+      "https://files.smartos.space/1722586178891-img5735.JPG",
       "https://files.smartos.space/1722586178871-img5765.JPG",
       "https://files.smartos.space/1722586178883-img5766.JPG",
       "https://files.smartos.space/1722586178876-img5734.JPG",
-      "https://files.smartos.space/1722586178891-img5735.JPG",
       "https://files.smartos.space/1722586178903-img5743.JPG",
       "https://files.smartos.space/1722586178900-img5728.JPG"
     ],
@@ -12685,13 +12005,13 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1722586178871-img5765.JPG",
+    "image": "https://files.smartos.space/1722586178903-img5743.JPG",
     "gallery": [
+      "https://files.smartos.space/1722586178903-img5743.JPG",
       "https://files.smartos.space/1722586178871-img5765.JPG",
       "https://files.smartos.space/1722586178883-img5766.JPG",
       "https://files.smartos.space/1722586178876-img5734.JPG",
       "https://files.smartos.space/1722586178891-img5735.JPG",
-      "https://files.smartos.space/1722586178903-img5743.JPG",
       "https://files.smartos.space/1722586178900-img5728.JPG"
     ],
     "description": "căn có cửa sổ",
@@ -12715,14 +12035,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1722586178871-img5765.JPG",
+    "image": "https://files.smartos.space/1722586178900-img5728.JPG",
     "gallery": [
+      "https://files.smartos.space/1722586178900-img5728.JPG",
       "https://files.smartos.space/1722586178871-img5765.JPG",
       "https://files.smartos.space/1722586178883-img5766.JPG",
       "https://files.smartos.space/1722586178876-img5734.JPG",
       "https://files.smartos.space/1722586178891-img5735.JPG",
-      "https://files.smartos.space/1722586178903-img5743.JPG",
-      "https://files.smartos.space/1722586178900-img5728.JPG"
+      "https://files.smartos.space/1722586178903-img5743.JPG"
     ],
     "description": "căn bếp riêng, wc ngoài",
     "capacity": 2,
@@ -12745,14 +12065,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1722613634916-img4242.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613634916-img4242.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12775,14 +12095,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1722613634897-img4249.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613634897-img4249.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12805,14 +12125,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1722613635028-img4250.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613635028-img4250.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,
@@ -12865,14 +12185,14 @@ window.vanminhRoomsData = [
       "Full nội thất"
     ],
     "priceRange": "2.5tr - 3.5tr",
-    "image": "https://files.smartos.space/1760606393517-img8249.JPG",
+    "image": "https://files.smartos.space/1722613635104-img4276.JPG",
     "gallery": [
+      "https://files.smartos.space/1722613635104-img4276.JPG",
       "https://files.smartos.space/1760606393517-img8249.JPG",
       "https://files.smartos.space/1760606393524-img8253.JPG",
       "https://files.smartos.space/1760606393529-img8256.JPG",
       "https://files.smartos.space/1760606393539-img8262.JPG",
-      "https://files.smartos.space/1760606393544-img8272.JPG",
-      "https://files.smartos.space/1761376139178-img9828.JPG"
+      "https://files.smartos.space/1760606393544-img8272.JPG"
     ],
     "description": "Hệ thống Sâu róm tìm trọ chất lượng cao tại cơ sở 22 Đặng Thái Thân. Phòng trọ được trang bị đầy đủ cơ sở vật chất khép kín, môi trường sống văn minh, an ninh tốt, vệ sinh sạch sẽ, phù hợp với các bạn học sinh sinh viên.",
     "capacity": 2,

@@ -214,6 +214,7 @@ export function SiteHeader() {
                     <div className="border-t border-slate-100 my-1"></div>
                     <button
                       onClick={() => {
+                        // Keep per-email survey answers so re-login does not force a new survey
                         localStorage.removeItem("sau_user_logged_in");
                         localStorage.removeItem("sau_user_name");
                         localStorage.removeItem("sau_user_email");

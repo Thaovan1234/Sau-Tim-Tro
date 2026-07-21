@@ -315,52 +315,17 @@ function RoomPage() {
     }, 1500);
   };
 
-  // Dynamically enrich gallery based on other rooms in the same building/district
+  // Gallery: own photos only (borrowing other rooms caused duplicate images across listings)
   const getEnrichedGallery = () => {
     let galleryList = room.gallery ? [...room.gallery] : [];
-    if (galleryList.length === 0 && room.image) {
-      galleryList.push(room.image);
+    galleryList = galleryList.filter((img): img is string => Boolean(img));
+    galleryList = [...new Set(galleryList)];
+
+    if (room.image) {
+      galleryList = [room.image, ...galleryList.filter((img) => img !== room.image)];
     }
-    
-    // Find other rooms in same address
-    if (galleryList.length < 6) {
-      const sameLocRooms = rooms.filter(r => r.address === room.address && r.id !== room.id);
-      for (const r of sameLocRooms) {
-        if (galleryList.length >= 6) break;
-        if (r.image && !galleryList.includes(r.image)) {
-          galleryList.push(r.image);
-        }
-        if (r.gallery) {
-          for (const img of r.gallery) {
-            if (galleryList.length >= 6) break;
-            if (img && !galleryList.includes(img)) {
-              galleryList.push(img);
-            }
-          }
-        }
-      }
-    }
-    
-    // Find other rooms in same district
-    if (galleryList.length < 6) {
-      const sameDistRooms = rooms.filter(r => r.district === room.district && r.id !== room.id);
-      for (const r of sameDistRooms) {
-        if (galleryList.length >= 6) break;
-        if (r.image && !galleryList.includes(r.image)) {
-          galleryList.push(r.image);
-        }
-        if (r.gallery) {
-          for (const img of r.gallery) {
-            if (galleryList.length >= 6) break;
-            if (img && !galleryList.includes(img)) {
-              galleryList.push(img);
-            }
-          }
-        }
-      }
-    }
-    
-    // Fallbacks
+
+    // Fallbacks only if this room has too few photos
     const fallbackPhotos = [
       "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80",
       "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=400&q=80",

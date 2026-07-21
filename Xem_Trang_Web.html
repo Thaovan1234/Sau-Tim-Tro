@@ -3272,6 +3272,8 @@
     
     function formatImageUrl(url) {
       if (!url) return '';
+      // Protocol-relative URLs (//cdn...) break on file:// and some hosts
+      if (url.startsWith('//')) url = 'https:' + url;
       // If served via http/https (e.g. Vite or Live Server), public assets are served at root '/'
       if (window.location.protocol.startsWith('http') && url.startsWith('public/')) {
         return url.replace(/^public\//, '/');
@@ -3530,19 +3532,26 @@
       // so the user can browse page 1, 2, 3, 4, 5 with plenty of room cards!
       if (matched.length > 0 && matched.length < 15) {
         const baseMatched = [...matched];
-        // Duplicate with variations up to page 5
+        // Build a larger unique image pool from real listing covers so variations don't all look the same
+        const realCovers = (window.vanminhRoomsData || [])
+          .map(r => r.image)
+          .filter(Boolean);
+        const simulatedImages = [
+          ...new Set([
+            ...baseMatched.map(r => r.image).filter(Boolean),
+            ...realCovers,
+            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=400&q=80",
+            "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=400&q=80"
+          ])
+        ];
+        // Duplicate with variations up to page 5 — each card gets a distinct cover
         for (let i = 1; i <= 4; i++) {
           baseMatched.forEach((room, rIdx) => {
-            // Pick a unique Unsplash image to make it look like different rooms!
-            const simulatedImages = [
-              "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80",
-              "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=400&q=80",
-              "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=400&q=80",
-              "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=400&q=80",
-              "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=400&q=80",
-              "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=400&q=80"
-            ];
-            const imgUrl = simulatedImages[(rIdx + i) % simulatedImages.length];
+            const imgUrl = simulatedImages[(rIdx * 5 + i) % simulatedImages.length] || room.image;
             
             matched.push({
               ...room,
@@ -3550,7 +3559,8 @@
               title: room.title.replace("gác lửng", "cao cấp").replace("Smart", "Premium") + " (Phòng " + (i * 10 + rIdx + 1) + ")",
               price: room.price + (i * 150000),
               area: room.area + (i * 2),
-              image: imgUrl
+              image: imgUrl,
+              gallery: [imgUrl, ...(room.gallery || []).filter(g => g !== imgUrl)].slice(0, 6)
             });
           });
         }
@@ -3853,57 +3863,23 @@
       if (thumbContainer) {
         thumbContainer.innerHTML = '';
         
-        // Build gallery with robust fallback to other rooms at same location or district if < 6 images
+        // Gallery: use only this room's own photos (no borrowing from other rooms — that caused duplicates)
         let gallery = [];
         if (room.gallery && Array.isArray(room.gallery)) {
-          gallery = room.gallery.filter(img => img && typeof img === 'string');
+          gallery = room.gallery.filter(img => img && typeof img === 'string').map(formatImageUrl);
         } else if (room.images && Array.isArray(room.images)) {
-          gallery = room.images.filter(img => img && typeof img === 'string');
+          gallery = room.images.filter(img => img && typeof img === 'string').map(formatImageUrl);
         }
+
+        // Deduplicate while preserving order
+        gallery = [...new Set(gallery)];
         
-        if (gallery.length === 0 && room.image) {
-          gallery.push(formatImageUrl(room.image));
+        if (room.image) {
+          const cover = formatImageUrl(room.image);
+          gallery = [cover, ...gallery.filter(img => img !== cover)];
         }
 
-        // If gallery has fewer than 6 images, dynamically pull other images from same location/building
-        if (gallery.length < 6) {
-          const sameLocRooms = (window.vanminhRoomsData || []).filter(r => r.location === room.location && r.id !== room.id);
-          for (let r of sameLocRooms) {
-            if (gallery.length >= 6) break;
-            if (r.image && !gallery.includes(r.image)) {
-              gallery.push(r.image);
-            }
-            if (r.gallery && Array.isArray(r.gallery)) {
-              for (let img of r.gallery) {
-                if (gallery.length >= 6) break;
-                if (img && !gallery.includes(img)) {
-                  gallery.push(img);
-                }
-              }
-            }
-          }
-        }
-
-        // If still fewer than 6, pull from same district
-        if (gallery.length < 6) {
-          const sameDistRooms = (window.vanminhRoomsData || []).filter(r => r.district === room.district && r.id !== room.id);
-          for (let r of sameDistRooms) {
-            if (gallery.length >= 6) break;
-            if (r.image && !gallery.includes(r.image)) {
-              gallery.push(r.image);
-            }
-            if (r.gallery && Array.isArray(r.gallery)) {
-              for (let img of r.gallery) {
-                if (gallery.length >= 6) break;
-                if (img && !gallery.includes(img)) {
-                  gallery.push(img);
-                }
-              }
-            }
-          }
-        }
-
-        // If still fewer than 6, default to high-quality room photos
+        // If still fewer than 6, pad with generic fallbacks (not other listings)
         const fallbackPhotos = [
           "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=400&q=80",
           "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=400&q=80",
@@ -6303,31 +6279,18 @@
       const username = emailStr.split("@")[0];
       const name = username.split(/[._-]/).map(part => part.charAt(0).toUpperCase() + part.slice(1)).join(" ");
 
-      localStorage.setItem("sau_user_logged_in", "true");
-      localStorage.setItem("sau_user_email", emailStr);
-      localStorage.setItem("sau_user_name", name);
-      localStorage.removeItem("sau_user_explicit_logout"); // Reset logout flag on login
-
-      updateHeaderLoginState();
-      
-      const isCompleted = localStorage.getItem("sau_survey_completed_" + emailStr) === "true";
-      if (isCompleted) {
-        localStorage.setItem("sau_survey_completed", "true");
-        const stored = localStorage.getItem("sau_survey_answers_" + emailStr);
-        if (stored) localStorage.setItem("sau_survey_answers", stored);
-        
-        const overlay = document.getElementById("survey-overlay");
-        if (overlay) overlay.classList.add("hidden");
-        
-        applySurveyPersonalization(stored ? JSON.parse(stored) : null);
-        
-        const bestRoom = findBestMatchRoomHtml(stored ? JSON.parse(stored) : {});
-        if (bestRoom) {
-          openRoomDetail(bestRoom.id);
-        }
+      // Persist social account so email/password re-login stays consistent
+      if (!getRegisteredUserRecord(emailStr)) {
+        saveRegisteredUser(emailStr, name, "__social__");
       } else {
-        renderSurveyStep(1);
+        // Keep existing password; refresh display name if missing
+        const existing = getRegisteredUserRecord(emailStr);
+        if (existing && existing.legacy) {
+          saveRegisteredUser(emailStr, name, existing.password || "__social__");
+        }
       }
+
+      finishAuthAndContinue(emailStr, name);
     };
 
     window.setAuthTabMode = function(tab) {
@@ -6335,6 +6298,53 @@
       authError = "";
       renderAuthForm();
     };
+
+    // Registered users: { email: { name, password } } — legacy string values still accepted
+    function getRegisteredUsersMap() {
+      try {
+        return JSON.parse(localStorage.getItem("sau_registered_users") || "{}") || {};
+      } catch {
+        return {};
+      }
+    }
+
+    function getRegisteredUserRecord(email) {
+      const map = getRegisteredUsersMap();
+      const rec = map[email];
+      if (!rec) return null;
+      if (typeof rec === "string") return { name: rec, password: null, legacy: true };
+      return { name: rec.name || "Sinh viên", password: rec.password ?? null, legacy: false };
+    }
+
+    function saveRegisteredUser(email, name, password) {
+      const map = getRegisteredUsersMap();
+      map[email] = { name, password };
+      localStorage.setItem("sau_registered_users", JSON.stringify(map));
+    }
+
+    function finishAuthAndContinue(emailStr, nameStr) {
+      localStorage.setItem("sau_user_logged_in", "true");
+      localStorage.setItem("sau_user_email", emailStr);
+      localStorage.setItem("sau_user_name", nameStr);
+      localStorage.removeItem("sau_user_explicit_logout");
+      updateHeaderLoginState();
+
+      const isCompleted = localStorage.getItem("sau_survey_completed_" + emailStr) === "true";
+      if (isCompleted) {
+        localStorage.setItem("sau_survey_completed", "true");
+        const stored = localStorage.getItem("sau_survey_answers_" + emailStr);
+        if (stored) localStorage.setItem("sau_survey_answers", stored);
+
+        const overlay = document.getElementById("survey-overlay");
+        if (overlay) overlay.classList.add("hidden");
+
+        applySurveyPersonalization(stored ? JSON.parse(stored) : null);
+        const bestRoom = findBestMatchRoomHtml(stored ? JSON.parse(stored) : {});
+        if (bestRoom) openRoomDetail(bestRoom.id);
+      } else {
+        renderSurveyStep(1);
+      }
+    }
 
     window.handleAuthSubmitForm = function(event) {
       event.preventDefault();
@@ -6348,10 +6358,26 @@
       const emailStr = emailInput ? emailInput.value.trim().toLowerCase() : "";
       const passwordStr = passwordInput ? passwordInput.value : "";
       const nameStr = nameInput ? nameInput.value.trim() : "";
+
+      if (!emailStr) {
+        authError = "Vui lòng nhập email.";
+        renderAuthForm();
+        return;
+      }
+      if (!passwordStr) {
+        authError = "Vui lòng nhập mật khẩu.";
+        renderAuthForm();
+        return;
+      }
       
       if (authTab === "register") {
         if (!nameStr) {
           authError = "Vui lòng nhập họ tên.";
+          renderAuthForm();
+          return;
+        }
+        if (passwordStr.length < 4) {
+          authError = "Mật khẩu phải có ít nhất 4 ký tự.";
           renderAuthForm();
           return;
         }
@@ -6360,31 +6386,40 @@
           renderAuthForm();
           return;
         }
-        
-        const registeredUsers = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
-        registeredUsers[emailStr] = nameStr;
-        localStorage.setItem("sau_registered_users", JSON.stringify(registeredUsers));
-        
-        localStorage.setItem("sau_user_logged_in", "true");
-        localStorage.setItem("sau_user_email", emailStr);
-        localStorage.setItem("sau_user_name", nameStr);
-        localStorage.removeItem("sau_user_explicit_logout"); // Reset logout flag
-      } else {
-        const registeredUsers = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
-        let name = registeredUsers[emailStr];
-        if (!name) {
-          const username = emailStr.split("@")[0];
-          name = username.split(/[._-]/).map(part => part.charAt(0).toUpperCase() + part.slice(1)).join(" ");
+
+        if (getRegisteredUserRecord(emailStr)) {
+          authError = "Email này đã được đăng ký. Vui lòng đăng nhập.";
+          renderAuthForm();
+          return;
         }
-        
-        localStorage.setItem("sau_user_logged_in", "true");
-        localStorage.setItem("sau_user_email", emailStr);
-        localStorage.setItem("sau_user_name", name);
-        localStorage.removeItem("sau_user_explicit_logout"); // Reset logout flag
+
+        saveRegisteredUser(emailStr, nameStr, passwordStr);
+        finishAuthAndContinue(emailStr, nameStr);
+      } else {
+        const user = getRegisteredUserRecord(emailStr);
+        if (!user) {
+          authError = "Tài khoản chưa được đăng ký. Vui lòng đăng ký trước.";
+          renderAuthForm();
+          return;
+        }
+        // Social-only accounts should sign in via Google/Facebook (or set a password later)
+        if (user.password === "__social__") {
+          authError = "Tài khoản này đăng nhập bằng Google/Facebook. Vui lòng dùng nút mạng xã hội bên dưới.";
+          renderAuthForm();
+          return;
+        }
+        // Legacy accounts (name-only) accept first login password and upgrade the record
+        if (user.password !== null && user.password !== passwordStr) {
+          authError = "Email hoặc mật khẩu không đúng.";
+          renderAuthForm();
+          return;
+        }
+        if (user.legacy || user.password === null) {
+          saveRegisteredUser(emailStr, user.name, passwordStr);
+        }
+
+        finishAuthAndContinue(emailStr, user.name);
       }
-      
-      updateHeaderLoginState();
-      renderSurveyStep(1);
     };
 
     window.toggleHeaderDropdown = function(event) {
@@ -6396,12 +6431,7 @@
     };
 
     window.handleHeaderLogout = function() {
-      const email = localStorage.getItem("sau_user_email");
-      if (email) {
-        localStorage.removeItem("sau_survey_completed_" + email);
-        localStorage.removeItem("sau_survey_answers_" + email);
-      }
-      
+      // Keep per-email survey answers so re-login does not force a new survey
       localStorage.removeItem("sau_user_logged_in");
       localStorage.removeItem("sau_user_name");
       localStorage.removeItem("sau_user_email");

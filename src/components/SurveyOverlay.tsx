@@ -69,44 +69,100 @@ export function SurveyOverlay({ onClose, onComplete }: OnboardingSurveyProps) {
   const [authConfirmPassword, setAuthConfirmPassword] = useState("");
   const [authError, setAuthError] = useState("");
 
+  type RegisteredUser = { name: string; password: string | null; legacy?: boolean };
+
+  const getRegisteredUser = (email: string): RegisteredUser | null => {
+    try {
+      const map = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
+      const rec = map[email];
+      if (!rec) return null;
+      if (typeof rec === "string") return { name: rec, password: null, legacy: true };
+      return { name: rec.name || "Sinh viên", password: rec.password ?? null };
+    } catch {
+      return null;
+    }
+  };
+
+  const saveRegisteredUser = (email: string, name: string, password: string) => {
+    const map = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
+    map[email] = { name, password };
+    localStorage.setItem("sau_registered_users", JSON.stringify(map));
+  };
+
+  const finishAuthSession = (emailStr: string, nameStr: string) => {
+    localStorage.setItem("sau_user_logged_in", "true");
+    localStorage.setItem("sau_user_email", emailStr);
+    localStorage.setItem("sau_user_name", nameStr);
+    window.dispatchEvent(new CustomEvent("sau_login"));
+
+    const isCompleted = localStorage.getItem(`sau_survey_completed_${emailStr}`) === "true";
+    if (isCompleted) {
+      localStorage.setItem("sau_survey_completed", "true");
+      const stored = localStorage.getItem(`sau_survey_answers_${emailStr}`);
+      if (stored) {
+        localStorage.setItem("sau_survey_answers", stored);
+        onComplete(JSON.parse(stored));
+        return;
+      }
+    }
+    setIsLoggedIn(true);
+    setCurrentStep(1);
+  };
+
   const handleAuthSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setAuthError("");
     const emailStr = authEmail.trim().toLowerCase();
     const nameStr = authName.trim();
 
+    if (!emailStr) {
+      setAuthError("Vui lòng nhập email.");
+      return;
+    }
+    if (!authPassword) {
+      setAuthError("Vui lòng nhập mật khẩu.");
+      return;
+    }
+
     if (authTab === "register") {
       if (!nameStr) {
         setAuthError("Vui lòng nhập họ tên.");
+        return;
+      }
+      if (authPassword.length < 4) {
+        setAuthError("Mật khẩu phải có ít nhất 4 ký tự.");
         return;
       }
       if (authPassword !== authConfirmPassword) {
         setAuthError("Mật khẩu xác nhận không khớp.");
         return;
       }
+      if (getRegisteredUser(emailStr)) {
+        setAuthError("Email này đã được đăng ký. Vui lòng đăng nhập.");
+        return;
+      }
 
-      // Save to registered database
-      const registeredUsers = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
-      registeredUsers[emailStr] = nameStr;
-      localStorage.setItem("sau_registered_users", JSON.stringify(registeredUsers));
-
-      // Log in
-      localStorage.setItem("sau_user_logged_in", "true");
-      localStorage.setItem("sau_user_email", emailStr);
-      localStorage.setItem("sau_user_name", nameStr);
+      saveRegisteredUser(emailStr, nameStr, authPassword);
+      finishAuthSession(emailStr, nameStr);
     } else {
-      // Login mode
-      const registeredUsers = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
-      const name = registeredUsers[emailStr] || "Hoàng Phú";
-
-      // Log in
-      localStorage.setItem("sau_user_logged_in", "true");
-      localStorage.setItem("sau_user_email", emailStr);
-      localStorage.setItem("sau_user_name", name);
+      const user = getRegisteredUser(emailStr);
+      if (!user) {
+        setAuthError("Tài khoản chưa được đăng ký. Vui lòng đăng ký trước.");
+        return;
+      }
+      if (user.password === "__social__") {
+        setAuthError("Tài khoản này đăng nhập bằng Google/Facebook. Vui lòng dùng nút mạng xã hội bên dưới.");
+        return;
+      }
+      if (user.password !== null && user.password !== authPassword) {
+        setAuthError("Email hoặc mật khẩu không đúng.");
+        return;
+      }
+      if (user.legacy || user.password === null) {
+        saveRegisteredUser(emailStr, user.name, authPassword);
+      }
+      finishAuthSession(emailStr, user.name);
     }
-
-    window.dispatchEvent(new CustomEvent("sau_login"));
-    setIsLoggedIn(true);
   };
 
   const handleSocialLogin = (provider: "google" | "facebook") => {
@@ -121,24 +177,10 @@ export function SurveyOverlay({ onClose, onComplete }: OnboardingSurveyProps) {
     const username = emailStr.split("@")[0];
     const name = username.split(".").map(part => part.charAt(0).toUpperCase() + part.slice(1)).join(" ");
 
-    localStorage.setItem("sau_user_logged_in", "true");
-    localStorage.setItem("sau_user_email", emailStr);
-    localStorage.setItem("sau_user_name", name);
-
-    window.dispatchEvent(new CustomEvent("sau_login"));
-
-    const isCompleted = localStorage.getItem(`sau_survey_completed_${emailStr}`) === "true";
-    if (isCompleted) {
-      localStorage.setItem("sau_survey_completed", "true");
-      const stored = localStorage.getItem(`sau_survey_answers_${emailStr}`);
-      if (stored) {
-        localStorage.setItem("sau_survey_answers", stored);
-        onComplete(JSON.parse(stored));
-      }
-    } else {
-      setIsLoggedIn(true);
-      setCurrentStep(1);
+    if (!getRegisteredUser(emailStr)) {
+      saveRegisteredUser(emailStr, name, "__social__");
     }
+    finishAuthSession(emailStr, name);
   };
 
   const questions: Question[] = [

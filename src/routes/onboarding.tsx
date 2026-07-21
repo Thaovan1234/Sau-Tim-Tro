@@ -67,6 +67,47 @@ function OnboardingPage() {
 
   const handleLoginSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    const emailStr = email.trim().toLowerCase();
+    if (!emailStr) {
+      alert("Vui lòng nhập email.");
+      return;
+    }
+    if (!password) {
+      alert("Vui lòng nhập mật khẩu.");
+      return;
+    }
+
+    const registeredUsers = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
+    if (activeTab === "register") {
+      if (!fullName.trim()) {
+        alert("Vui lòng nhập họ tên.");
+        return;
+      }
+      if (password.length < 4) {
+        alert("Mật khẩu phải có ít nhất 4 ký tự.");
+        return;
+      }
+      if (password !== confirmPassword) {
+        alert("Mật khẩu xác nhận không khớp.");
+        return;
+      }
+      if (registeredUsers[emailStr]) {
+        alert("Email này đã được đăng ký. Vui lòng đăng nhập.");
+        return;
+      }
+    } else {
+      const rec = registeredUsers[emailStr];
+      if (!rec) {
+        alert("Tài khoản chưa được đăng ký. Vui lòng đăng ký trước.");
+        return;
+      }
+      const savedPassword = typeof rec === "string" ? null : rec.password;
+      if (savedPassword !== null && savedPassword !== password) {
+        alert("Email hoặc mật khẩu không đúng.");
+        return;
+      }
+    }
+
     if (!email) {
       setEmail(role === "student" ? "hoangphu.student@fpt.edu.vn" : "le.anh.dung@email.com");
     }
@@ -93,14 +134,16 @@ function OnboardingPage() {
       finalEmail = loginEmail;
       
       const registeredUsers = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
-      if (registeredUsers[loginEmail.toLowerCase()]) {
-        finalName = registeredUsers[loginEmail.toLowerCase()];
-      } else {
-        if (role === "student") {
-          finalName = "Hoàng Phú";
-        } else {
-          finalName = "Lê Anh Dũng";
+      const rec = registeredUsers[loginEmail.toLowerCase()];
+      if (rec) {
+        finalName = typeof rec === "string" ? rec : (rec.name || finalName);
+        // Upgrade legacy name-only records when password is available
+        if (typeof rec === "string" && password) {
+          registeredUsers[loginEmail.toLowerCase()] = { name: finalName, password };
+          localStorage.setItem("sau_registered_users", JSON.stringify(registeredUsers));
         }
+      } else {
+        finalName = role === "student" ? "Hoàng Phú" : "Lê Anh Dũng";
       }
     } else {
       if (!finalName) {
@@ -110,9 +153,9 @@ function OnboardingPage() {
         finalEmail = role === "student" ? "new.student@student.edu.vn" : "new.landlord@email.com";
       }
       
-      // Save to registered database
+      // Save to registered database with password
       const registeredUsers = JSON.parse(localStorage.getItem("sau_registered_users") || "{}");
-      registeredUsers[finalEmail.toLowerCase()] = finalName;
+      registeredUsers[finalEmail.toLowerCase()] = { name: finalName, password: password || "" };
       localStorage.setItem("sau_registered_users", JSON.stringify(registeredUsers));
     }
     
